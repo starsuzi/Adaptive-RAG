@@ -4,7 +4,7 @@ Instantiates a base config with various HP combinations.
 
 import re
 import os
-os.environ['TRANSFORMERS_CACHE'] = os.path.dirname(os.getcwd()) + '/cache' # '/data/soyeong/cache'
+os.environ['TRANSFORMERS_CACHE'] = os.path.dirname(os.getcwd()) + '/cache'
 import copy
 import shutil
 import json
