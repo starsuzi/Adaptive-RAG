@@ -136,6 +136,7 @@ LLM_PORT_NUM='8010'
 
 bash run_retrieval_test.sh $SYSTEM $MODEL $DATASET $LLM_PORT_NUM
 ```
+We provide all the results in `predictions.tar.gz`.
 
 These are the lines for preprocessing the dataset for QA tasks used to measure the performance of our Adaptive-RAG.
 ```bash
