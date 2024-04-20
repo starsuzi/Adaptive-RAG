@@ -1,0 +1,21 @@
+*.pyc
+.DS_Store
+raw_data/
+processed_data/
+predictions/
+data/
+outputs/
+instantiated_configs/
+official_evaluation/
+case_study/
+cache/
+# .retriever_address.json
+# .llm_server_address.json
+# .retriever_address.jsonnet
+# .llm_server_address.jsonnet
+.history
+.temp
+__pycache__/
+elasticsearch-7.10.2/
+elasticsearch-7.10.2-linux-x86_64.tar.gz
+elasticsearch-7.10.2-linux-x86_64.tar.gz.sha512

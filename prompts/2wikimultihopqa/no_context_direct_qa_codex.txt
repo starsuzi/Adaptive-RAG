@@ -1,0 +1,98 @@
+# METADATA: {"qid": "35bf3490096d11ebbdafac1f6bf848b6"}
+Q: Are both Kurram Garhi and Trojkrsti located in the same country?
+A: no
+
+
+# METADATA: {"qid": "e5150a5a0bda11eba7f7acde48001122"}
+Q: When did the director of film Laughter In Hell die?
+A: August 25, 1963
+
+
+# METADATA: {"qid": "f44939100bda11eba7f7acde48001122"}
+Q: What is the cause of death of Grand Duke Alexei Alexandrovich Of Russia's mother?
+A: tuberculosis
+
+
+# METADATA: {"qid": "af8c6722088b11ebbd6fac1f6bf848b6"}
+Q: Are the directors of films The Sun of the Sleepless and Nevada (1927 film) both from the same country?
+A: no
+
+
+# METADATA: {"qid": "8727d1280bdc11eba7f7acde48001122"}
+Q: When was the director of film P.S. Jerusalem born?
+A: December 23, 1970
+
+
+# METADATA: {"qid": "5811079c0bdc11eba7f7acde48001122"}
+Q: When did the director of film Hypocrite (Film) die?
+A: 19 June 2013
+
+
+# METADATA: {"qid": "79a863dc0bdc11eba7f7acde48001122"}
+Q: Where did the director of film Maddalena (1954 Film) die?
+A: Rome
+
+
+# METADATA: {"qid": "f86b4a28091711ebbdaeac1f6bf848b6"}
+Q: Which album was released earlier, What'S Inside or Cassandra'S Dream (Album)?
+A: What's Inside
+
+
+# METADATA: {"qid": "228546780bdd11eba7f7acde48001122"}
+Q: What is the date of birth of the director of film Best Friends (1982 Film)?
+A: July 21, 1926
+
+
+# METADATA: {"qid": "c6805b2908a911ebbd80ac1f6bf848b6"}
+Q: Who was born first out of Martin Hodge and Ivania Martinich?
+A: Martin Hodge
+
+
+# METADATA: {"qid": "97954d9408b011ebbd84ac1f6bf848b6"}
+Q: Do director of film Coolie No. 1 (1995 Film) and director of film The Sensational Trial have the same nationality?
+A: no
+
+
+# METADATA: {"qid": "028eaef60bdb11eba7f7acde48001122"}
+Q: When did the director of film The Boy And The Fog die?
+A: September 4, 1986
+
+
+# METADATA: {"qid": "c6f63bfb089e11ebbd78ac1f6bf848b6"}
+Q: Which film has the director born first, Two Weeks With Pay or Chhailla Babu?
+A: Two Weeks With Pay
+
+
+# METADATA: {"qid": "cdbb82ec0baf11ebab90acde48001122"}
+Q: Who is Boraqchin (Wife Of Ögedei)'s father-in-law?
+A: Genghis Khan
+
+
+# METADATA: {"qid": "f1ccdfee094011ebbdaeac1f6bf848b6"}
+Q: Which album was released more recently, If I Have to Stand Alone or Answering Machine Music?
+A: Answering Machine Music
+
+
+# METADATA: {"qid": "1ceeab380baf11ebab90acde48001122"}
+Q: Who is the grandchild of Krishna Shah (Nepalese Royal)?
+A: Prithvipati Shah
+
+
+# METADATA: {"qid": "13cda43c09b311ebbdb0ac1f6bf848b6"}
+Q: Are both mountains, Serre Mourene and Monte Galbiga, located in the same country?
+A: no
+
+
+# METADATA: {"qid": "a5995da508ab11ebbd82ac1f6bf848b6"}
+Q: Which film has the director died later, The Gal Who Took the West or Twenty Plus Two?
+A: Twenty Plus Two
+
+
+# METADATA: {"qid": "4724c54e08e011ebbda1ac1f6bf848b6"}
+Q: Which film has the director died earlier, When The Mad Aunts Arrive or The Miracle Worker (1962 Film)?
+A: When The Mad Aunts Arrive
+
+
+# METADATA: {"qid": "5897ec7a086c11ebbd61ac1f6bf848b6"}
+Q: Which film came out first, The Night Of Tricks or The Genealogy?
+A: The Night Of Tricks

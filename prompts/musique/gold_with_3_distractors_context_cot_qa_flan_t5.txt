@@ -1,0 +1,442 @@
+# METADATA: {"qid": "2hop__292995_8796"}
+Wikipedia Title: Jonathan Stanton
+Jonathan Stanton (1834–1918) was an ornithologist and longtime professor of Greek and Latin at Bates College, librarian, and supporter of the debate program.
+
+Wikipedia Title: Robichaud v Canada (Treasury Board)
+Robichaud v Canada (Treasury Board), [1987] 2 S.C.R. 84 is a leading case decided by the Supreme Court of Canada on sexual harassment under the Canadian Human Rights Act. The Court found that a corporation can be found liable for the discriminatory conduct of its employees who are acting "in the course of their employment." It also found it necessary to impose liability, as the employer is the only one that is in the position to remedy the discriminatory conduct.
+
+Wikipedia Title: Neville A. Stanton
+Neville A. Stanton is a British Professor of Human Factors and Ergonomics at the University of Southampton. Prof Stanton is a Chartered Engineer (C.Eng), Chartered Psychologist (C.Psychol) and Chartered Ergonomist (C.ErgHF). He has written and edited over a forty books and over three hundered peer-reviewed journal papers on applications of the subject. Stanton is a Fellow of the British Psychological Society, a Fellow of The Institute of Ergonomics and Human Factors and a member of the Institution of Engineering and Technology. He has been published in academic journals including "Nature". He has also helped organisations design new human-machine interfaces, such as the Adaptive Cruise Control system for Jaguar Cars.
+
+Wikipedia Title: Southampton
+The University of Southampton, which was founded in 1862 and received its Royal Charter as a university in 1952, has over 22,000 students. The university is ranked in the top 100 research universities in the world in the Academic Ranking of World Universities 2010. In 2010, the THES - QS World University Rankings positioned the University of Southampton in the top 80 universities in the world. The university considers itself one of the top 5 research universities in the UK. The university has a global reputation for research into engineering sciences, oceanography, chemistry, cancer sciences, sound and vibration research, computer science and electronics, optoelectronics and textile conservation at the Textile Conservation Centre (which is due to close in October 2009.) It is also home to the National Oceanography Centre, Southampton (NOCS), the focus of Natural Environment Research Council-funded marine research.
+
+Wikipedia Title: Lanton Mills
+Lanton Mills is an American comedy short film written and directed by Terrence Malick and starring Malick, Warren Oates, Harry Dean Stanton, and Paula Mandel. The film was Malick's thesis project for the American Film Institute, and was completed in 1969. The story concerns two apparently 19th-century cowboys (Stanton and Malick) plotting to rob a bank in Texas, which they do in the 20th century.
+
+Q: Answer the following question by reasoning step-by-step.
+When was Neville A. Stanton's employer founded?
+A: The employer of Neville A. Stanton is University of Southampton. The University of Southampton was founded in 1862. So the answer is: 1862.
+
+
+# METADATA: {"qid": "2hop__154225_727337"}
+Wikipedia Title: ISO/TC 68
+ISO/TC 68 is a technical committee formed within the International Organization for Standardization (ISO), of Geneva, Switzerland, tasked with developing and maintaining international standards covering the areas of banking, securities, and other financial services. As the standards organization under ISO responsible for the development of all international financial services standards, ISO/TC 68 plays a key role in the development and adoption of new technologies in the banking, brokerage and insurance industries. Many of its current work projects involve developing ecommerce standards such as better online security for financial transactions, XML standards for financial transactions and standards to reduce the cost and delays of international financial transactions. The membership of ISO/TC 68, consists of more than 30 organizations assigned by participating national standards bodies plus additional international standards development organizations that work collaboratively toward global financial services standards development.
+
+Wikipedia Title: ISO 21500
+ISO 21500:2012, Guidance on Project Management, is an international standard developed by the International Organization for Standardization, or ISO starting in 2007 and released in 2012. It was intended to provide generic guidance, explain core principles and what constitutes good practice in project management. The ISO technical committee dealing with project management, ISO/PC 236 was held by the American National Standards Institute (ANSI) which had approved four standards that used PMI materials. one of which was ANSI/PMI 99-001-2008, A Guide to the Project Management Body of Knowledge - 4th Edition (PMI BoK® Guide - 4th Edition) (revision and re-designation of ANSI/PMI 99-001-2004): 11/20/2008.
+
+Wikipedia Title: Unicode
+Unicode is developed in conjunction with the International Organization for Standardization and shares the character repertoire with ISO/IEC 10646: the Universal Character Set. Unicode and ISO/IEC 10646 function equivalently as character encodings, but The Unicode Standard contains much more information for implementers, covering—in depth—topics such as bitwise encoding, collation and rendering. The Unicode Standard enumerates a multitude of character properties, including those needed for supporting bidirectional text. The two standards do use slightly different terminology.
+
+Wikipedia Title: ISO 3166-2:AO
+ISO 3166-2:AO is the entry for Angola in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.
+
+Wikipedia Title: ISO 3307
+ISO 3307 is an international standard for date and time representations issued by the International Organization for Standardization (ISO). The standard was issued in 1975, then was superseded by ISO 8601 in 1988.
+
+Q: Answer the following question by reasoning step-by-step.
+What is the headquarters for the organization who sets the standards for ISO 21500?
+A: The standards for ISO 21500 were set by International Organization for Standardization. The International Organization for Standardization has headquarters in Geneva. So the answer is: Geneva.
+
+
+# METADATA: {"qid": "2hop__642271_608104"}
+Wikipedia Title: Bogotá
+Bogotá (/ ˈboʊɡətɑː /, / ˌbɒɡəˈtɑː /, / ˌboʊ - /; Spanish pronunciation: (boɣoˈta) (listen)), officially Bogotá, Distrito Capital, abbreviated Bogotá, D.C., and formerly known as Santafé de Bogotá between 1991 and 2000, is the capital and largest city of Colombia, administered as the Capital District, although often thought of as part of Cundinamarca. Bogotá is a territorial entity of the first order, with the same administrative status as the departments of Colombia. It is the political, economic, administrative, industrial, artistic, cultural, and sports center of the country.
+
+Wikipedia Title: Arrondissement of Mechelen
+The Arrondissement of Mechelen (; ) is one of the three administrative arrondissements in the Province of Antwerp, Belgium. It is both an administrative and a judicial arrondissement, as the territory for both coincides.
+
+Wikipedia Title: Guy Shepherdson
+Guy Shepherdson (born 17 February 1982 in Jakarta, Indonesia) is an Australian former rugby union professional footballer. He played as a tight-head prop for the Brumbies and Reds in the Super Rugby competition and played for the Australian national team, the Wallabies.
+
+Wikipedia Title: Vilnius County
+Vilnius County () is the largest of the 10 counties of Lithuania, located in the east of the country around the city Vilnius. On 1 July 2010, the county administration was abolished, and since that date, Vilnius County remains as the territorial and statistical unit.
+
+Wikipedia Title: SMA Negeri 68 Jakarta
+SMA Negeri 68 Jakarta (SMANED) is a public high school located at Salemba Raya street in Central Jakarta, Indonesia. The school is in one complex with SMP Negeri 216 Jakarta, SD Negeri Kenari, and Menza functional building. It was established on August 29, 1981 after being inaugurated by President Soeharto. In 2006, it was appointed to become RSBI (Rintisan Sekolah Bertaraf Internasional). Today, there are 840 students and 103 teachers and staff.
+
+Q: Answer the following question by reasoning step-by-step.
+What region of the state where Guy Shepherdson was born, contains SMA Negeri 68?
+A: Guy Shepherdson was born in Jakarta. SMA Negeri 68 Jakarta is located in Central Jakarta. So the answer is: Central Jakarta.
+
+
+# METADATA: {"qid": "2hop__782642_52667"}
+Wikipedia Title: Marie Adelaide Leprosy Centre
+Marie Adelaide Leprosy Centre (MALC) in Karachi, Pakistan was run by Dr. Ruth Pfau, who was also a Roman Catholic religious sister of the Society of Daughters of the Heart of Mary, originally of German descent. Its social work department was founded 1962 by Dr. I. K. Gill and work for the leprosy patients and their family members was started. A Leprosy Clinic was bought in April 1963 and patients from all over Pakistan and even from Afghanistan came for treatment.
+
+Wikipedia Title: Nanjing
+Nanjing is an important railway hub in eastern China. It serves as rail junction for the Beijing-Shanghai (Jinghu) (which is itself composed of the old Jinpu and Huning Railways), Nanjing–Tongling Railway (Ningtong), Nanjing–Qidong (Ningqi), and the Nanjing-Xian (Ningxi) which encompasses the Hefei–Nanjing Railway. Nanjing is connected to the national high-speed railway network by Beijing–Shanghai High-Speed Railway and Shanghai–Wuhan–Chengdu Passenger Dedicated Line, with several more high-speed rail lines under construction.
+
+Wikipedia Title: Kotri Junction railway station
+Kotri Junction station is among the oldest railway stations in Pakistan. It served as the northern terminus point of the Scinde Railway, which was established in March 1855. A railway line was to be constructed between Karachi and Kotri and work on the Karachi terminus commenced in April 1858. By 13 May 1861, the station opened to the public. This was the first railway line for public traffic between Karachi and Kotri, a distance of 108 miles (174 km).
+
+Wikipedia Title: VR warehouses
+The VR warehouses () were a group of redbrick railway warehouses designed by Bruno Granholm in the centre of Helsinki, Finland. They were used by the Finnish State Railways from their construction in 1899 until the 1980s. Their official address was Mannerheimintie 13. The warehouses were badly damaged in a fire on and were subsequently demolished. The Helsinki Music Centre was built on the site of the warehouses.
+
+Wikipedia Title: Somerset
+The usefulness of the canals was short-lived, though some have now been restored for recreation. The 19th century also saw the construction of railways to and through Somerset. The county was served by five pre-1923 Grouping railway companies: the Great Western Railway (GWR); a branch of the Midland Railway (MR) to Bath Green Park (and another one to Bristol); the Somerset and Dorset Joint Railway, and the London and South Western Railway (L&SWR). The former main lines of the GWR are still in use today, although many of its branch lines were scrapped under the notorious Beeching Axe. The former lines of the Somerset and Dorset Joint Railway closed completely, as has the branch of the Midland Railway to Bath Green Park (and to Bristol St Philips); however, the L&SWR survived as a part of the present West of England Main Line. None of these lines, in Somerset, are electrified. Two branch lines, the West and East Somerset Railways, were rescued and transferred back to private ownership as "heritage" lines. The fifth railway was a short-lived light railway, the Weston, Clevedon and Portishead Light Railway. The West Somerset Mineral Railway carried the iron ore from the Brendon Hills to Watchet.
+
+Q: Answer the following question by reasoning step-by-step.
+When was the first railway line constructed between Kotri and the city where Marie Adelaide Leprosy Centre is located?
+A: Marie Adelaide Leprosy Centre is located in Karachi. The first railway line between Kotri and Karachi was constructed in April 1858. So the answer is: April 1858.
+
+
+# METADATA: {"qid": "2hop__439265_539716"}
+Wikipedia Title: Founders Peaks
+The Founders Peaks are a cluster of sharp peaks and ridges located just east of Founders Escarpment and between Minnesota Glacier and Gowan Glacier, in the Heritage Range of the Ellsworth Mountains in Antarctica. The peaks were mapped by the United States Geological Survey from surveys and U.S. Navy air photos, 1961–66. The name was applied by the Advisory Committee on Antarctic Names is association with the name Heritage Range.
+
+Wikipedia Title: Biblioteca Ayacucho
+The Biblioteca Ayacucho ("Ayacucho Library") is an editorial entity of the government of Venezuela, founded on September 10, 1974. It is managed by the "Fundación Biblioteca Ayacucho". Its name, "Ayacucho", comes from the intention to honor the definitive and crucial Battle of Ayacucho that took place December 9, 1824 between Spain and the territories of the Americas, prior to the full independence of the continent.
+
+Wikipedia Title: Bogotá
+Bogotá (/ ˈboʊɡətɑː /, / ˌbɒɡəˈtɑː /, / ˌboʊ - /; Spanish pronunciation: (boɣoˈta) (listen)), officially Bogotá, Distrito Capital, abbreviated Bogotá, D.C., and formerly known as Santafé de Bogotá between 1991 and 2000, is the capital and largest city of Colombia, administered as the Capital District, although often thought of as part of Cundinamarca. Bogotá is a territorial entity of the first order, with the same administrative status as the departments of Colombia. It is the political, economic, administrative, industrial, artistic, cultural, and sports center of the country.
+
+Wikipedia Title: Hebron, Prince Edward Island
+Hebron is a Canadian rural community in Prince County, Prince Edward Island. It is located in the township of Lot 8, Prince Edward Island, south of O'Leary.
+
+Wikipedia Title: Heritage Places Protection Act
+The Heritage Places Protection Act is a provincial statute which allows for the recognition and protection of cultural heritage and natural heritage properties in the province of Prince Edward Island, Canada.
+
+Q: Answer the following question by reasoning step-by-step.
+What county is Hebron located in, in the same province the Heritage Places Protection Act applies to?
+A: Heritage Places Protection Act applies to the jurisdiction of Prince Edward Island. Hebron, Prince Edward Island is located in the Prince County. So the answer is: Prince County.
+
+
+# METADATA: {"qid": "2hop__323282_79175"}
+Wikipedia Title: KOLU
+KOLU (90.1 FM) is a radio station broadcasting a Christian radio format. Licensed to Pasco, Washington, United States, the station is currently owned by First Baptist Church of Riverview.
+
+Wikipedia Title: CIMI-FM
+CIMI-FM was a French-language talk radio and modern rock radio station in Quebec City, Quebec, Canada. The station broadcast at 103.7 FM and broadcasts from the borough of Charlesbourg.
+
+Wikipedia Title: Quebec Winter Carnival
+The Quebec Winter Carnival (French: Carnaval de Québec), commonly known in both English and French as Carnaval, is a pre-Lenten festival held in Quebec City. After being held intermittently since 1894, the Carnaval de Québec has been celebrated annually since 1955. That year Bonhomme Carnaval, the mascot of the festival, made his first appearance. Up to one million people attended the Carnaval de Québec in 2006 making it the largest winter festival in the world.
+
+Wikipedia Title: WSME
+WSME (1120 AM) is an Eastern North Carolina radio station broadcasting an oldies format. The station is licensed to the town of Camp Lejeune, North Carolina, serving the Jacksonville area. The station is licensed to B&M Broadcasting LLC. WSME also simulcasts via an FM translator (W246CJ), at 97.1 FM.
+
+Wikipedia Title: KBCR-FM
+KBCR-FM (96.9 FM, "Big Country Radio") is a radio station licensed and broadcasting to Steamboat Springs, Colorado, USA. The station broadcasts a country music format and is currently owned by Don Tlapek, through licensee Blizzard Broadcasting LLC.
+
+Q: Answer the following question by reasoning step-by-step.
+When did the first large winter carnival take place in the city where CIMI-FM is licensed to broadcast?
+A: CIMI-FM is licensed to broadcast in Quebec City. The first large winter carnival in Quebec City took place in 1894. So the answer is: 1894.
+
+
+# METADATA: {"qid": "2hop__427213_79175"}
+Wikipedia Title: Olivier Robitaille
+He was born in Quebec City in 1811, the son of carpenter Étienne Robitaille and his wife Marie Moisan. He studied at the Petit Séminaire de Québec and later trained in medicine with Joseph Morrin, working as an intern at the Marine and Emigrant Hospital. He received his doctorate degree in medicine (MD) from Harvard University in 1838, was qualified to practice in Lower Canada later that year and set up practice in Quebec City. He also served as visiting physician for the Marine and Emigrant Hospital, serving on its board, and was physician for the Quebec jail.
+
+Wikipedia Title: Don't Tell Alfred
+Don't Tell Alfred is a novel by Nancy Mitford, first published in 1960 by Hamish Hamilton. It is the third in a trilogy centered on an upper-class English family, and takes place twenty years after the events of "The Pursuit of Love" and "Love in a Cold Climate". It was Mitford's final novel, though she continued to produce works of biography for a number of years before her death in 1973.
+
+Wikipedia Title: Quebec Winter Carnival
+The Quebec Winter Carnival (French: Carnaval de Québec), commonly known in both English and French as Carnaval, is a pre-Lenten festival held in Quebec City. After being held intermittently since 1894, the Carnaval de Québec has been celebrated annually since 1955. That year Bonhomme Carnaval, the mascot of the festival, made his first appearance. Up to one million people attended the Carnaval de Québec in 2006 making it the largest winter festival in the world.
+
+Wikipedia Title: Alexey Pchelintsev
+Pchelintsev competed at the 2014 Winter Olympics for Kazakhstan. He placed 46th both the normal hill qualifying round and the large hill qualifying round, failing to advance.
+
+Wikipedia Title: Allister de Winter
+Allister de Winter (born 12 March 1968, Launceston, Tasmania) is an Australian retired first class cricketer who played for the Tasmanian Tigers from 1986 until 1993. Following his retirement, de Winter pursued a career as a junior development coach. In 2002 he coached the Tasmanian Tigers under-19 side, alongside fellow former Tigers player Michael Farrell. In 2003 the Western Australian Cricket Association employed de Winter as a state development coach. In 2005 de Winter moved to Bangladesh, to take up the position as head coach of the Bangladesh National Cricket Academy and coach of the under-19 Bangladesh cricket team, taking them to a 5th place at the 2006 ICC under-19 World Cup. He is currently the Assistant Coach of the Tasmanian Tigers, a position he has held since the 2007-08 season.
+
+Q: Answer the following question by reasoning step-by-step.
+When did the first large winter carnival happen in Olivier Robitaille's place of birth?
+A: Olivier Robitaille was born in Quebec City. The first large winter carnival in Quebec City happened in the 1894. So the answer is: 1894.
+
+
+# METADATA: {"qid": "2hop__387702_20661"}
+Wikipedia Title: Hoora
+Along with the Central Business District, Adliya, and Juffair, Hoora is considered as one of Manama's nightlife centres, with many bars, hotels, restaurants, pubs and nightclubs (both Arabic and Western), and it is very popular with Arab visitors to Bahrain.
+
+Wikipedia Title: Eurovision Song Contest 2018
+The EBU announced on 7 November 2017 that forty - two countries would participate in the contest. Russia confirmed their return after withdrawing from the previous edition, while Macedonia's participation was provisionally blocked by the EBU due to unpaid debts by its national broadcaster. However, ten days later, the EBU announced that Macedonia would be allowed to enter the contest, raising the number of participating countries to forty - three, equaling the highest number of participants with the 2008 and 2011 editions.
+
+Wikipedia Title: British Empire
+While the Suez Crisis caused British power in the Middle East to weaken, it did not collapse. Britain again deployed its armed forces to the region, intervening in Oman (1957), Jordan (1958) and Kuwait (1961), though on these occasions with American approval, as the new Prime Minister Harold Macmillan's foreign policy was to remain firmly aligned with the United States. Britain maintained a military presence in the Middle East for another decade. In January 1968, a few weeks after the devaluation of the pound, Prime Minister Harold Wilson and his Defence Secretary Denis Healey announced that British troops would be withdrawn from major military bases East of Suez, which included the ones in the Middle East, and primarily from Malaysia and Singapore. The British withdrew from Aden in 1967, Bahrain in 1971, and Maldives in 1976.
+
+Wikipedia Title: History of Cuba
+The island of Cuba was inhabited by various Mesoamerican cultures prior to the arrival of the Spanish explorer Christopher Columbus in 1492. After Columbus' arrival, Cuba became a Spanish colony, ruled by a Spanish governor in Havana. In 1762, Havana was briefly occupied by Great Britain, before being returned to Spain in exchange for Florida. A series of rebellions during the 19th century failed to end Spanish rule. However, the Spanish -- American War resulted in a Spanish withdrawal from the island in 1898, and following three - and - a-half years of subsequent US military rule, Cuba gained formal independence in 1902.
+
+Wikipedia Title: Cameroon
+Its foreign policy closely follows that of its main ally, France (one of its former colonial rulers). Cameroon relies heavily on France for its defence, although military spending is high in comparison to other sectors of government.President Biya has engaged in a decades-long clash with the government of Nigeria over possession of the oil-rich Bakassi peninsula. Cameroon and Nigeria share a 1,000-mile (1 600 km) border and have disputed the sovereignty of the Bakassi peninsula. In 1994 Cameroon petitioned the International Court of Justice to resolve the dispute. The two countries attempted to establish a cease-fire in 1996, however, fighting continued for years. In 2002, the ICJ ruled that the Anglo-German Agreement of 1913 gave sovereignty to Cameroon. The ruling called for a withdrawal by both countries and denied the request by Cameroon for compensation due to Nigeria's long-term occupation. By 2004, Nigeria had failed to meet the deadline to handover the peninsula. A UN-mediated summit in June 2006 facilitated an agreement for Nigeria to withdraw from the region and both leaders signed the Greentree Agreement. The withdrawal and handover of control was completed by August 2006.
+
+Q: Answer the following question by reasoning step-by-step.
+When did Britain withdraw from the country containing Hoora?
+A: Hoora is in the country of Bahrain. Britain withdrew from Bahrain in 1971. So the answer is: 1971.
+
+
+# METADATA: {"qid": "2hop__195347_20661"}
+Wikipedia Title: Wadyan
+Wadyan (Arabic: واديان) is a village in the island of Sitra, Bahrain. A branch of the National Bank of Bahrain and the Sitra police station are located in Wadyan.
+
+Wikipedia Title: British Empire
+While the Suez Crisis caused British power in the Middle East to weaken, it did not collapse. Britain again deployed its armed forces to the region, intervening in Oman (1957), Jordan (1958) and Kuwait (1961), though on these occasions with American approval, as the new Prime Minister Harold Macmillan's foreign policy was to remain firmly aligned with the United States. Britain maintained a military presence in the Middle East for another decade. In January 1968, a few weeks after the devaluation of the pound, Prime Minister Harold Wilson and his Defence Secretary Denis Healey announced that British troops would be withdrawn from major military bases East of Suez, which included the ones in the Middle East, and primarily from Malaysia and Singapore. The British withdrew from Aden in 1967, Bahrain in 1971, and Maldives in 1976.
+
+Wikipedia Title: British Empire
+The Suez Crisis very publicly exposed Britain's limitations to the world and confirmed Britain's decline on the world stage, demonstrating that henceforth it could no longer act without at least the acquiescence, if not the full support, of the United States. The events at Suez wounded British national pride, leading one MP to describe it as "Britain's Waterloo" and another to suggest that the country had become an "American satellite". Margaret Thatcher later described the mindset she believed had befallen the British political establishment as "Suez syndrome", from which Britain did not recover until the successful recapture of the Falkland Islands from Argentina in 1982.
+
+Wikipedia Title: British Empire
+Britain's remaining colonies in Africa, except for self-governing Southern Rhodesia, were all granted independence by 1968. British withdrawal from the southern and eastern parts of Africa was not a peaceful process. Kenyan independence was preceded by the eight-year Mau Mau Uprising. In Rhodesia, the 1965 Unilateral Declaration of Independence by the white minority resulted in a civil war that lasted until the Lancaster House Agreement of 1979, which set the terms for recognised independence in 1980, as the new nation of Zimbabwe.
+
+Wikipedia Title: Freemasonry
+A dispute during the Lausanne Congress of Supreme Councils of 1875 prompted the Grand Orient de France to commission a report by a Protestant pastor which concluded that, as Freemasonry was not a religion, it should not require a religious belief. The new constitutions read, "Its principles are absolute liberty of conscience and human solidarity", the existence of God and the immortality of the soul being struck out. It is possible that the immediate objections of the United Grand Lodge of England were at least partly motivated by the political tension between France and Britain at the time. The result was the withdrawal of recognition of the Grand Orient of France by the United Grand Lodge of England, a situation that continues today.
+
+Q: Answer the following question by reasoning step-by-step.
+When did Britain withdraw from the country where the village of Wadyan is found?
+A: Wadyan is in the country of Bahrain. Britain withdraw from Bahrain in 1971. So the answer is: 1971.
+
+
+# METADATA: {"qid": "2hop__861128_15822"}
+Wikipedia Title: Oklahoma City
+Oklahoma City has a major park in each quadrant of the city, going back to the first parks masterplan. Will Rogers Park, Lincoln Park, Trosper Park, and Woodson Park were once connected by the Grand Boulevard loop, some sections of which no longer exist. Martin Park Nature Center is a natural habitat in far northwest Oklahoma City. Will Rogers Park is home to the Lycan Conservatory, the Rose Garden, and Butterfly Garden, all built in the WPA era. Oklahoma City is home to the American Banjo Museum, which houses a large collection of highly decorated banjos from the early 20th century and exhibits on the history of the banjo and its place in American history. Concerts and lectures are also held there.
+
+Wikipedia Title: Banjo-Tooie
+Banjo-Tooie is a platform video game developed by Rare and originally released for the Nintendo 64 console in 2000. It is the second game in the "Banjo-Kazooie" series and the sequel to "Banjo-Kazooie". The game follows series protagonists Banjo and Kazooie as they attempt to stop the plans of the witch Gruntilda and her two sisters, who intend to vapourise the inhabitants of the game's world. The game features worlds that are significantly larger than those of its predecessor, requiring the player to complete challenges such as solving puzzles, jumping over obstacles, collecting items, and defeating bosses. It also includes a multiplayer mode where up to four players can compete in several minigames.
+
+Wikipedia Title: Nintendo Entertainment System
+In the longer run, however, with the NES near its end of its life many third-party publishers such as Electronic Arts supported upstart competing consoles with less strict licensing terms such as the Sega Genesis and then the PlayStation, which eroded and then took over Nintendo's dominance in the home console market, respectively. Consoles from Nintendo's rivals in the post-SNES era had always enjoyed much stronger third-party support than Nintendo, which relied more heavily on first-party games.
+
+Wikipedia Title: Alec Forbes of Howglen
+Alec Forbes of Howglen is a novel by George MacDonald, first published in 1865 and is primarily concerned with Scottish country life.
+
+Wikipedia Title: Banjo-Tooie
+"Banjo-Tooie" was developed by Rare and designed by Gregg Mayles, who previously worked on "Banjo-Kazooie". Development of the game started in June 1998. Some features that were originally cut during the development of "Banjo-Kazooie", such as some of its worlds and a multiplayer game mode, were instead integrated into "Banjo-Tooie". An additional world set in a castle was planned, but due to time constraints, it was scrapped during development and assets from it were used in constructing Cauldron Keep. The game features roughly 150 total characters, including enemies and non-playable characters.
+
+Q: Answer the following question by reasoning step-by-step.
+What did the publisher of Banjo-Tooie rely primarily on for its support?
+A: The publisher of Banjo-Tooie is Nintendo. Nintendo relied primarily for its support on first-party games. So the answer is: first-party games.
+
+
+# METADATA: {"qid": "2hop__496817_701819"}
+Wikipedia Title: WANT
+WANT is an FM radio station licensed to Lebanon, Tennessee, broadcasting at 98.9 MHz. Most of WANT's broadcast day is simulcast over 1490 AM WCOR, with some exceptions.
+
+Wikipedia Title: WRSU-FM
+WRSU (88.7 FM) is a non-commercial college radio station serving the greater Central New Jersey area, broadcasting from the campus of Rutgers University in New Brunswick, New Jersey. It is a student and faculty-run radio station with Rutgers faculty member Mike Pavlichko serving as its Broadcast Administrator. WRSU broadcasts on FM and streams all of its programming online.
+
+Wikipedia Title: KSAO (FM)
+KSAO (93.9 FM) is an American radio station licensed to serve the community of San Angelo, Texas. The station's broadcast license is held by Houston Christian Broadcasters, Inc.
+
+Wikipedia Title: Rivière-Verte, New Brunswick
+It is located 15 kilometres southeast of Edmundston along the Saint John River and the Riviere Verte. Its name translates to "Green River".
+
+Wikipedia Title: WCSN-FM
+WCSN-FM (105.7 FM, "Sunny 105.7 FM") is a radio station licensed to serve Orange Beach, Alabama, United States. The station is owned by Gulf Coast Broadcasting Co., Inc. It airs a classic hits music format.
+
+Q: Answer the following question by reasoning step-by-step.
+What shares a border with Rivière-Verte in the province WRSU-FM broadcasts in?
+A: WRSU-FM was licensed to broadcast to New Brunswick. Rivière-Verte, New Brunswick shares border with Edmundston. So the answer is: Edmundston.
+
+
+# METADATA: {"qid": "2hop__804754_52230"}
+Wikipedia Title: United States Senate
+The composition and powers of the Senate are established by Article One of the United States Constitution. The Senate is composed of senators who represent each of the states, with each state being equally represented by two senators, regardless of their population, serving staggered terms of six years; with fifty states presently in the Union, there are 100 U.S. Senators. From 1789 until 1913, Senators were appointed by legislatures of the states they represented; following the ratification of the Seventeenth Amendment in 1913, they are now popularly elected. The Senate chamber is located in the north wing of the Capitol, in Washington, D.C.
+
+Wikipedia Title: Senate of Kenya
+The Senate is the upper house of the Parliament of Kenya. The Senate was first established as part of Kenya's 1963 Constitution. After being abolished in 1966, the Senate was re-established by the 2010 Constitution.
+
+Wikipedia Title: Mau Mau Uprising
+On 20 October 1952, Governor Baring signed an order declaring a State of Emergency. Early the next morning, Operation Jock Scott was launched: the British carried out a mass - arrest of Jomo Kenyatta and 180 other alleged Mau Mau leaders within Nairobi. Jock Scott did not decapitate the movement's leadership as hoped, since news of the impending operation was leaked. Thus, while the moderates on the wanted list awaited capture, the real militants, such as Dedan Kimathi and Stanley Mathenge (both later principal leaders of Mau Mau's forest armies), fled to the forests.
+
+Wikipedia Title: Detroit
+In March 2013, Governor Rick Snyder declared a financial emergency in the city, stating that the city has a $327 million budget deficit and faces more than $14 billion in long-term debt. It has been making ends meet on a month-to-month basis with the help of bond money held in a state escrow account and has instituted mandatory unpaid days off for many city workers. Those troubles, along with underfunded city services, such as police and fire departments, and ineffective turnaround plans from Bing and the City Council led the state of Michigan to appoint an emergency manager for Detroit on March 14, 2013. On June 14, 2013 Detroit defaulted on $2.5 billion of debt by withholding $39.7 million in interest payments, while Emergency Manager Kevyn Orr met with bondholders and other creditors in an attempt to restructure the city's $18.5 billion debt and avoid bankruptcy. On July 18, 2013, the City of Detroit filed for Chapter 9 bankruptcy protection. It was declared bankrupt by U.S. judge Stephen Rhodes on December 3, with its $18.5 billion debt he said in accepting the city's contention that it is broke and that negotiations with its thousands of creditors were infeasible.
+
+Wikipedia Title: Roman Republic
+The senate's ultimate authority derived from the esteem and prestige of the senators. This esteem and prestige was based on both precedent and custom, as well as the caliber and reputation of the senators. The senate passed decrees, which were called senatus consulta. These were officially "advice" from the senate to a magistrate. In practice, however, they were usually followed by the magistrates. The focus of the Roman senate was usually directed towards foreign policy. Though it technically had no official role in the management of military conflict, the senate ultimately was the force that oversaw such affairs. The power of the senate expanded over time as the power of the legislative assemblies declined, and the senate took a greater role in ordinary law-making. Its members were usually appointed by Roman Censors, who ordinarily selected newly elected magistrates for membership in the senate, making the senate a partially elected body. During times of military emergency, such as the civil wars of the 1st century BC, this practice became less prevalent, as the Roman Dictator, Triumvir or the senate itself would select its members.
+
+Q: Answer the following question by reasoning step-by-step.
+When was the state of emergency declared in the country where the Senate is located?
+A: The Senate is in the country of Kenya. The state of emergency was declared in Kenya on 20 October 1952. So the answer is: 20 October 1952.
+
+
+# METADATA: {"qid": "2hop__102217_58400"}
+Wikipedia Title: Back on the Right Track
+Back on the Right Track is the ninth album by Sly and the Family Stone, released by Warner Bros. Records in 1979. The album was, as its title alludes to, an overt comeback attempt for Sly Stone. However, the album and its singles, "Remember Who You Are" and "The Same Thing (Makes You Laugh, Makes You Cry)", failed to live up to expectations.
+
+Wikipedia Title: Time Waits for No One: Anthology 1971–1977
+Time Waits for No One: Anthology 1971–1977 is a British-only compilation album by The Rolling Stones released in 1979. It covers the period from "Sticky Fingers" in 1971 until "Love You Live" in 1977. Only two of ten single A-sides from the period are included—"Angie" and "Fool to Cry".
+
+Wikipedia Title: Switzerland
+The Swiss Armed Forces, including the Land Forces and the Air Force, are composed mostly of conscripts, male citizens aged from 20 to 34 (in special cases up to 50) years. Being a landlocked country, Switzerland has no navy; however, on lakes bordering neighbouring countries, armed military patrol boats are used. Swiss citizens are prohibited from serving in foreign armies, except for the Swiss Guards of the Vatican, or if they are dual citizens of a foreign country and reside there.
+
+Wikipedia Title: Raphael Tuju
+Raphael Tuju, EGH (born 30 March 1959) is a Kenyan politician. In 2002—after a career as a journalist, TV producer, and real estate investor—Tuju was elected to parliament and has served the Government of Kenya in various capacities since that time.
+
+Wikipedia Title: Kakamega
+Kakamega Forest is the main tourist destination in the area. Another attraction is the Crying Stone of Ilesi located along the highway towards Kisumu. It is a 40 metres high rock dome resembling a human figure whose ``eyes ''drop water.
+
+Q: Answer the following question by reasoning step-by-step.
+Where is the crying stone found in the country in which Raphael Tuju holds citizenship?
+A: Raphael Tuju is a citizen of Kenya. The crying stone in Kenya is found along the highway towards Kisumu. So the answer is: along the highway towards Kisumu.
+
+
+# METADATA: {"qid": "2hop__131516_53573"}
+Wikipedia Title: Driftwood Range
+The Driftwood Range is a small subrange of the Skeena Mountains of the Interior Mountains, located between the headwaters of Driftwood River and Nilkitkwa River in northern British Columbia, Canada.
+
+Wikipedia Title: Lima Mountain
+Lima Mountain is a 2238 foot summit in Cook County, Minnesota. It is located in the Lima Mountain Unit, a 2540 acre inventoried roadless area adjacent to the Boundary Waters Canoe Area. There is a 1 mile trail to the summit, where a fire tower once stood. Lima Mountain has a 328 foot rise over the saddle connecting it with the Misquah Hills High Point and Peak 2266. A trail to the summit begins along the Lima Grade (Forest Route 315) just north of its junction with Lima Mountain Road (Forest Route 152)
+
+Wikipedia Title: Snake River (St. Croix River tributary)
+The Snake River with its tributaries drains a 1,009 square miles (2,610 km) area of Aitkin, Kanabec, Mille Lacs and Pine counties. After initially flowing southward from its headwaters in southern Aitkin County, the Snake flows through Kanabec County, turning eastward near Mora, Minnesota, following a minor fault line. It drains into the St. Croix River 13 miles (21 km) east of Pine City, Minnesota.
+
+Wikipedia Title: Honeoye Falls–Lima Central School District
+The Honeoye Falls–Lima Central School District (HFLCSD) serves a student population of 2,748 in New York state. The district includes four schools located on separate sites: Lima Elementary (K–5); Manor Elementary (K–5); Middle School (6–8); and High School (9–12).
+
+Wikipedia Title: Nyssa, Oregon
+Nyssa is a city in Malheur County, Oregon, United States. The population was 3,267 at the 2010 census. The city is located along the Snake River on the Idaho border, in the region of far eastern Oregon known as the "Treasure Valley". It is part of the Ontario, OR–ID Micropolitan Statistical Area.
+
+Q: Answer the following question by reasoning step-by-step.
+Where does the Snake River start, in the state where Lima Mountain is located?
+A: Lima Mountain is located in the state of Minnesota. The snake river in Minnesota starts in southern Aitkin County. So the answer is: southern Aitkin County.
+
+
+# METADATA: {"qid": "3hop1__753524_742157_573834"}
+Wikipedia Title: So Long, See You Tomorrow (album)
+So Long, See You Tomorrow is the fourth album by the London indie rock band Bombay Bicycle Club, released on 3 February 2014. The album is named after the novel of the same name by William Maxwell.
+
+Wikipedia Title: Flaws (album)
+Flaws is the second studio album by the British indie rock band Bombay Bicycle Club, released on 9 July 2010 by Island Records. Unlike the band's previous releases, the album is entirely acoustic music, consisting of versions of their own tracks as well as cover versions of other artists. The album was produced in part by the guitarist Jamie MacColl's father, Neil MacColl, with recording taking place in February 2009 at The Church in Crouch End, London. The band started work on the album after completing their first album, "I Had the Blues But I Shook Them Loose".
+
+Wikipedia Title: Night Wave
+Night Wave is the second studio album by Los Angeles based Electrohop group Hyper Crush. The album was released on the iTunes Store on February 7, 2012. The album was released on Hyper Crush's label Night Wave Records after leaving their previous label Universal Motown because they "really didn’t see eye to eye with them for a long time." The album consists of 11 songs, 4 of which were previously released as singles. Save for three of the songs which were co-written and co-produced, the entire album was written and produced by Hyper Crush.
+
+Wikipedia Title: I Can See Clearly Now
+``I Can See Clearly Now ''Single by Johnny Nash from the album I Can See Clearly Now B - side`` How Good It Is'' Released June 23, 1972 Format 7 ''single Recorded 1972 Genre Reggae Length 2: 45 Label Epic Songwriter (s) Johnny Nash Producer (s) Johnny Nash Johnny Nash singles chronology ``Stir It Up'' (1972)`` I Can See Clearly Now ''(1972) ``There Are More Questions Than Answers'' (1972)`` Stir It Up ''(1972) ``I Can See Clearly Now'' (1972)`` There Are More Questions Than Answers ''(1972)
+
+Wikipedia Title: The Antidote (Ronny Jordan album)
+The Antidote is the debut album by English jazz guitarist Ronny Jordan, that was released by Island Records in 1992.
+
+Wikipedia Title: The Dance (song)
+``The Dance ''Single by Garth Brooks from the album Garth Brooks B - side`` If Tomorrow Never Comes'' Released April 30, 1990 Format CD single, 7 ''45 RPM Recorded 1988 -- 1989 Genre Country Length 3: 40 Label Capitol Nashville 44629 Songwriter (s) Tony Arata Producer (s) Allen Reynolds Garth Brooks singles chronology ``Not Counting You'' (1990)`` The Dance ''(1990) ``Friends in Low Places'' (1990)`` Not Counting You ''(1990) ``The Dance'' (1990)`` Friends in Low Places ''(1990)
+
+Q: Answer the following question by reasoning step-by-step.
+What genre is the record label of the performer of So Long, See You Tomorrow associated with?
+A: The performer of So Long, See You Tomorrow is Bombay Bicycle Club. The record label of Bombay Bicycle Club is Island Records. The genre of Island Records is jazz. So the answer is: jazz.
+
+
+# METADATA: {"qid": "3hop1__858730_386977_851569"}
+Wikipedia Title: Khabarovsky District
+Khabarovsky District () is an administrative and municipal district (raion), one of the seventeen in Khabarovsk Krai, Russia. It consists of two unconnected segments separated by the territory of Amursky District, which are located in the southwest of the krai. The area of the district is . Its administrative center is the city of Khabarovsk (which is not administratively a part of the district). Population:
+
+Wikipedia Title: MC Eiht
+Aaron Tyler (born May 22, 1971), better known by his stage name MC Eiht, is an American rapper and actor. Many of his songs are based on his life in Compton. His stage name was partly inspired by the numeral in KRS-One's name. He chose Eiht for its links to "hood culture", including Olde English 800 (8 Ball) and .38 caliber firearms. He is the "de facto" leader of West Coast hip hop group Compton's Most Wanted, which also included fellow Compton-based rappers Boom Bam, Tha Chill, DJ Mike T, DJ Slip and Ant Capone. He is also known for his role as A-Wax in the 1993 film "Menace II Society".
+
+Wikipedia Title: Smoke in tha City
+Smoke in tha City is the ninth studio album by American rapper MC Eiht, released September 14, 2004 on Factor House Records. It was produced by Black C-Zer and Quincy Miller. The album featuring guest performances by West Coast heavy-weights: RBX, Spice 1, Kokane, Jayo Felony and Daz Dillinger.
+
+Wikipedia Title: Biblioteca Ayacucho
+The Biblioteca Ayacucho ("Ayacucho Library") is an editorial entity of the government of Venezuela, founded on September 10, 1974. It is managed by the "Fundación Biblioteca Ayacucho". Its name, "Ayacucho", comes from the intention to honor the definitive and crucial Battle of Ayacucho that took place December 9, 1824 between Spain and the territories of the Americas, prior to the full independence of the continent.
+
+Wikipedia Title: Compton, California
+Compton is a city in southern Los Angeles County, California, United States, situated south of downtown Los Angeles. Compton is one of the oldest cities in the county and on May 11, 1888, was the eighth city to incorporate. As of the 2010 United States Census, the city had a total population of 96,456. It is known as the "Hub City" due to its geographic centrality in Los Angeles County. Neighborhoods in Compton include Sunny Cove, Leland, Downtown Compton, and Richland Farms. The city is generally a working class city with some middle-class neighborhoods, and is home to a relatively young population, at an average 25 years of age, compared to the American median age of 38 (based on 2018 data).
+
+Wikipedia Title: Eastern Bengal and Assam
+Eastern Bengal and Assam was an administrative subdivision (province) of the British Raj between 1905 and 1912. Headquartered in the city of Dacca, it covered territories in what are now Bangladesh, Northeast India and Northern West Bengal.
+
+Q: Answer the following question by reasoning step-by-step.
+In which county was the birthplace of the Smoke in tha City performer?
+A: The performer of Smoke in tha City is MC Eiht. MC Eiht's birthplace is Compton. Compton is located in the county of Los Angeles County. So the answer is: Los Angeles County.
+
+
+# METADATA: {"qid": "3hop1__443556_763924_573834"}
+Wikipedia Title: Magic Tour Highlights
+Magic Tour Highlights is an EP by Bruce Springsteen and the E Street Band, which consists of four live audio tracks and their accompanying videos, and was released for digital download on July 15, 2008. The performances were recorded during the 2008 Magic Tour, and feature guest musicians, as well as Danny Federici's last performance with the group.
+
+Wikipedia Title: Juggernaut (Hunters & Collectors album)
+Juggernaut is the ninth and final studio album by Australian rock band, Hunters & Collectors. The album, recorded in 1997, was co-produced by the group with Kalju Tonuma and Mark Opitz. It was released on 26 January 1998 on Mushroom's White Label. With its release, Hunters & Collectors announced they would disband after the Say Goodbye Tour – they gave their final performances in late March 1998. The album peaked at No. 36 on the ARIA Albums Chart and No. 48 on the New Zealand Albums Chart.
+
+Wikipedia Title: The Crush Tour (album)
+The Crush Tour is a third concert video by American band Bon Jovi from the European leg of their Crush Tour. It was recorded on August 30, 2000 at Zurich, Switzerland. It was directed by Anthony Bongiovi. It was released on DVD in 2001.
+
+Wikipedia Title: The Antidote (Ronny Jordan album)
+The Antidote is the debut album by English jazz guitarist Ronny Jordan, that was released by Island Records in 1992.
+
+Wikipedia Title: Bounce (Bon Jovi album)
+Bounce is the eighth studio album by American rock band Bon Jovi, released on October 8, 2002 through Island Records. Produced by Luke Ebbin, Jon Bon Jovi and Richie Sambora, the album was recorded at Sanctuary II Studio in New Jersey.
+
+Wikipedia Title: Sensient
+Tim Larner, also known by his stage name Sensient, is a psytrance act from Melbourne, Australia. His music can be described as his own unique style of dark, deep and funky progressive psytrance. After many compilation releases on respected international labels like Plusquam, Flow, ZMA and Sub Machine, Sensients’ successful debut album "Blue Neevus" was released on German label Tatsu Records in 2003. In the same year he set up his own label Zenon Records, which he has built into one of the most respected minimal/progressive labels in the scene. In 2004 he completed a 3 month tour of Europe and Japan. In April 2005 he released his second album “Pressure Optimal” on Zenon. In 2005 he made a 4 month tour of Europe and Brazil where he played at some of the biggest festivals including Voov Experience, Fusion Festival, and Arvika Festival. He played at Boom festival 2006 and later that year released his third album on Zenon, "Antifluoro", which was heralded as a landmark release in the minimal progressive trance genre. In 2007, he toured North America.
+
+Q: Answer the following question by reasoning step-by-step.
+What is the genre of the record label of the band that performed on the Crush Tour?
+A: The Crush Tour is performed by the band Bon Jovi. The record label of Bon Jovi is Island Records. The genre of Island Records is jazz. So the answer is: jazz.
+
+
+# METADATA: {"qid": "3hop1__61746_67065_43617"}
+Wikipedia Title: Finding Dory
+One year later, Dory is living with Marlin and Nemo on their reef. One day, Dory has a flashback and remembers that she has parents. She decides to look for them, but her memory problem is an obstacle. She eventually remembers that they lived at the Jewel of Morro Bay across the ocean in California, thanks to Nemo mentioning its name.
+
+Wikipedia Title: Mexico–United States border
+Among the U.S. states, Texas has the longest stretch of the border with Mexico, while California has the shortest. Among the states in Mexico, Chihuahua has the longest border with the United States, while Nuevo León has the shortest.
+
+Wikipedia Title: Pesticide
+Though pesticide regulations differ from country to country, pesticides, and products on which they were used are traded across international borders. To deal with inconsistencies in regulations among countries, delegates to a conference of the United Nations Food and Agriculture Organization adopted an International Code of Conduct on the Distribution and Use of Pesticides in 1985 to create voluntary standards of pesticide regulation for different countries. The Code was updated in 1998 and 2002. The FAO claims that the code has raised awareness about pesticide hazards and decreased the number of countries without restrictions on pesticide use.
+
+Wikipedia Title: Mexico–United States border
+The total length of the continental border is 3,201 kilometers (1,989 mi). From the Gulf of Mexico, it follows the course of the Rio Grande (Río Bravo del Norte) to the border crossing at Ciudad Juárez, Chihuahua and El Paso, Texas. Westward from El Paso -- Juárez, it crosses vast tracts of the Chihuahuan and Sonoran deserts to the Colorado River Delta and San Diego -- Tijuana, before reaching the Pacific Ocean.
+
+Wikipedia Title: Hotel Arbez
+The Hotel Arbez, also called the Hotel Arbez Franco-Suisse, is a hotel that straddles the international border between France and Switzerland in the tiny village of La Cure, which is itself divided by the boundary. Built by a private landowner and businessman specially to take advantage of an impending border adjustment between the two countries, the structure was originally used as a grocery store (its Swiss portion) and a pub (the French half). Today, the entire building houses a hotel, whose dining room, kitchen and several rooms are bisected by the boundary.
+
+Wikipedia Title: List of countries that border only one other country
+There are generally three possible arrangements by which a country can have a single border. The first is with a divided island such a Haiti and the Dominican Republic, or Ireland and the United Kingdom. The second is a peninsular relationship, where the first country borders the second and is otherwise surrounded by sea, while the second country borders other countries, as with Portugal and Spain, Denmark and Germany, or Canada and the United States. The third is the circumstance where the first country is a small country that is landlocked and completely surrounded by the second, larger country, as with The Vatican and Italy, or Lesotho and South Africa.
+
+Q: Answer the following question by reasoning step-by-step.
+How long is the US border with the country that borders the state where Finding Dory takes place?
+A: Finding Dory is supposed to take place in California. The country that shares a border with California is Mexico. The length of the us border with Mexico is 1,989 mi. So the answer is: 1,989 mi.
+
+
+# METADATA: {"qid": "4hop3__703974_789671_24078_24137"}
+Wikipedia Title: Diario de América
+Diario de América (America's Daily) is a Spanish-language opinion journal about politics, economics, culture and social issues, published in the United States.
+
+Wikipedia Title: David Gelernter
+David Hillel Gelernter (born March 5, 1955) is an American artist, writer, and professor of computer science at Yale University. He is a former national fellow at the American Enterprise Institute and senior fellow in Jewish thought at the Shalem Center, and sat on the National Endowment for the Arts. He publishes widely; his work has appeared in "The Wall Street Journal", "New York Post", "Los Angeles Times", "The Weekly Standard", "Frankfurter Allgemeine Zeitung", and elsewhere. His paintings have been exhibited in New Haven and Manhattan.
+
+Wikipedia Title: Respekt
+Respekt is a Czech weekly newsmagazine published in Prague, the Czech Republic, reporting on domestic and foreign political and economic issues, as well as on science and culture.
+
+Wikipedia Title: America-Lite
+America-Lite: How Imperial Academia Dismantled Our Culture (and Ushered in the Obamacrats) is a 2012 book by David Gelernter, published by Encounter Books.
+
+Wikipedia Title: New Haven, Connecticut
+Livability.com named New Haven as the Best Foodie City in the country in 2014. There are 56 Zagat-rated restaurants in New Haven, the most in Connecticut and the third most in New England (after Boston and Cambridge). More than 120 restaurants are located within two blocks of the New Haven Green. The city is home to an eclectic mix of ethnic restaurants and small markets specializing in various foreign foods. Represented cuisines include Malaysian, Ethiopian, Spanish, Belgian, French, Greek, Latin American, Mexican, Italian, Thai, Chinese, Japanese, Vietnamese, Korean, Indian, Jamaican, Cuban, Peruvian, Syrian/Lebanese, and Turkish.
+
+Wikipedia Title: Baruch College Campus High School
+Baruch College Campus High School (BCCHS) is a public high school located in Kips Bay in the borough of Manhattan in New York City. Baruch College Campus High School received the highest number of applications among all of the New York City public high schools in 2011. BCCHS is renowned for its high academic standards, advisory program and perfect graduation rate. In 2012, BCCHS ranked 489 in the U.S. News & World Report list of best "gold-medal" U.S. high schools.
+
+Wikipedia Title: New Haven, Connecticut
+New Haven is served by the daily New Haven Register, the weekly "alternative" New Haven Advocate (which is run by Tribune, the corporation owning the Hartford Courant), the online daily New Haven Independent, and the monthly Grand News Community Newspaper. Downtown New Haven is covered by an in-depth civic news forum, Design New Haven. The Register also backs PLAY magazine, a weekly entertainment publication. The city is also served by several student-run papers, including the Yale Daily News, the weekly Yale Herald and a humor tabloid, Rumpus Magazine. WTNH Channel 8, the ABC affiliate for Connecticut, WCTX Channel 59, the MyNetworkTV affiliate for the state, and Connecticut Public Television station WEDY channel 65, a PBS affiliate, broadcast from New Haven. All New York City news and sports team stations broadcast to New Haven County.
+
+Q: Answer the following question by reasoning step-by-step.
+What weekly publication in the Connecticut city with the most Zagat rated restaurants is issued by university of America-Lite: How Imperial Academia Dismantled Our Culture's author?
+A: The author of America-Lite: How Imperial Academia Dismantled Our Culture is David Gelernter. David Gelernter was educated at the Yale University. The city in Connecticut that has the highest number of Zagat-rated restaurants is New Haven. The weekly publication in New Haven that is issued by Yale University is Yale Herald. So the answer is: Yale Herald.
+
+
+# METADATA: {"qid": "4hop3__463724_100414_35260_54090"}
+Wikipedia Title: Pacific National University
+Pacific National University (PNU) is one of the largest universities in Khabarovsk Russia. It was established in 1958. Today the university trains over 21,000 in 54 majors.
+
+Wikipedia Title: Iran
+Another civil war ensued after the death of Karim Khan in 1779, out of which Aqa Mohammad Khan emerged, founding the Qajar Dynasty in 1794. In 1795, following the disobedience of the Georgian subjects and their alliance with the Russians, the Qajars captured Tblisi by the Battle of Krtsanisi, and drove the Russians out of the entire Caucasus, reestablishing a short-lived Iranian suzerainty over the region. The Russo-Persian wars of 1804–1813 and 1826–1828 resulted in large irrevocable territorial losses for Iran in the Caucasus, comprising all of Transcaucasia and Dagestan, which made part of the very concept of Iran for centuries, and thus substantial gains for the neighboring Russian Empire.
+
+Wikipedia Title: Khabarovsk
+Khabarovsk is served by the Khabarovsk Novy Airport with international flights to East Asia, Southeast Asia, European Russia, and Central Asia.
+
+Wikipedia Title: Shahid Dastgerdi Stadium
+The Shahid Dastgerdi Stadium (also known as PAS Tehran Stadium) () is a football stadium located in the Ekbatan area of Tehran, Iran. It was named after a casualty of the Iran–Iraq War. It is the former home of PAS Tehran F.C. and now hosts the Iran national under-20 football team.
+
+Wikipedia Title: Mesopotamia
+Mesopotamia is a historical region in West Asia situated within the Tigris -- Euphrates river system, in modern days roughly corresponding to most of Iraq plus Kuwait, the eastern parts of Syria, Southeastern Turkey, and regions along the Turkish -- Syrian and Iran -- Iraq borders.
+
+Wikipedia Title: Iran
+On September 22, 1980, the Iraqi army invaded the Iranian Khuzestan, and the Iran–Iraq War began. Although the forces of Saddam Hussein made several early advances, by mid 1982, the Iranian forces successfully managed to drive the Iraqi army back into Iraq. In July 1982, with Iraq thrown on the defensive, Iran took the decision to invade Iraq and conducted countless offensives in a bid to conquer Iraqi territory and capture cities, such as Basra. The war continued until 1988, when the Iraqi army defeated the Iranian forces inside Iraq and pushed the remaining Iranian troops back across the border. Subsequently, Khomeini accepted a truce mediated by the UN. The total Iranian casualties in the war were estimated to be 123,220–160,000 KIA, 60,711 MIA, and 11,000–16,000 civilians killed.
+
+Wikipedia Title: United Nations Regional Groups
+the African Group, with 54 member states the Asia - Pacific Group, with 53 member states the Eastern European Group, with 23 member states the Latin American and Caribbean Group (GRULAC), with 33 member states the Western European and Others Group (WEOG), with 28 member states, plus 1 member state (the United States) as an observer state.
+
+Q: Answer the following question by reasoning step-by-step.
+How many countries in Pacific National University's continent are recognized by the organization that mediated the truce ending the Iran-Iraq war?
+A: Pacific National University is located in Khabarovsk, Russia Khabarovsk, Russian is in the continent of Asia. The entity that mediated the truce which ended the Iran-Iraq War is the UN. The number of member states that UN recognises in Asia is 53. So the answer is: 53.

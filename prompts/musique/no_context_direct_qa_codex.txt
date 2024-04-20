@@ -1,0 +1,98 @@
+# METADATA: {"qid": "2hop__292995_8796"}
+Q: When was Neville A. Stanton's employer founded?
+A: 1862
+
+
+# METADATA: {"qid": "2hop__154225_727337"}
+Q: What is the headquarters for the organization who sets the standards for ISO 21500?
+A: Geneva
+
+
+# METADATA: {"qid": "2hop__642271_608104"}
+Q: What region of the state where Guy Shepherdson was born, contains SMA Negeri 68?
+A: Central Jakarta
+
+
+# METADATA: {"qid": "2hop__782642_52667"}
+Q: When was the first railway line constructed between Kotri and the city where Marie Adelaide Leprosy Centre is located?
+A: April 1858
+
+
+# METADATA: {"qid": "2hop__439265_539716"}
+Q: What county is Hebron located in, in the same province the Heritage Places Protection Act applies to?
+A: Prince County
+
+
+# METADATA: {"qid": "2hop__323282_79175"}
+Q: When did the first large winter carnival take place in the city where CIMI-FM is licensed to broadcast?
+A: 1894
+
+
+# METADATA: {"qid": "2hop__427213_79175"}
+Q: When did the first large winter carnival happen in Olivier Robitaille's place of birth?
+A: 1894
+
+
+# METADATA: {"qid": "2hop__387702_20661"}
+Q: When did Britain withdraw from the country containing Hoora?
+A: 1971
+
+
+# METADATA: {"qid": "2hop__195347_20661"}
+Q: When did Britain withdraw from the country where the village of Wadyan is found?
+A: 1971
+
+
+# METADATA: {"qid": "2hop__861128_15822"}
+Q: What did the publisher of Banjo-Tooie rely primarily on for its support?
+A: first-party games
+
+
+# METADATA: {"qid": "2hop__496817_701819"}
+Q: What shares a border with Rivière-Verte in the province WRSU-FM broadcasts in?
+A: Edmundston
+
+
+# METADATA: {"qid": "2hop__804754_52230"}
+Q: When was the state of emergency declared in the country where the Senate is located?
+A: 20 October 1952
+
+
+# METADATA: {"qid": "2hop__102217_58400"}
+Q: Where is the crying stone found in the country in which Raphael Tuju holds citizenship?
+A: along the highway towards Kisumu
+
+
+# METADATA: {"qid": "2hop__131516_53573"}
+Q: Where does the Snake River start, in the state where Lima Mountain is located?
+A: southern Aitkin County
+
+
+# METADATA: {"qid": "3hop1__753524_742157_573834"}
+Q: What genre is the record label of the performer of So Long, See You Tomorrow associated with?
+A: jazz
+
+
+# METADATA: {"qid": "3hop1__858730_386977_851569"}
+Q: In which county was the birthplace of the Smoke in tha City performer?
+A: Los Angeles County
+
+
+# METADATA: {"qid": "3hop1__443556_763924_573834"}
+Q: What is the genre of the record label of the band that performed on the Crush Tour?
+A: jazz
+
+
+# METADATA: {"qid": "3hop1__61746_67065_43617"}
+Q: How long is the US border with the country that borders the state where Finding Dory takes place?
+A: 1,989 mi
+
+
+# METADATA: {"qid": "4hop3__703974_789671_24078_24137"}
+Q: What weekly publication in the Connecticut city with the most Zagat rated restaurants is issued by university of America-Lite: How Imperial Academia Dismantled Our Culture's author?
+A: Yale Herald
+
+
+# METADATA: {"qid": "4hop3__463724_100414_35260_54090"}
+Q: How many countries in Pacific National University's continent are recognized by the organization that mediated the truce ending the Iran-Iraq war?
+A: 53

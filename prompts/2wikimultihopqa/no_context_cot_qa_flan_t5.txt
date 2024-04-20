@@ -1,0 +1,118 @@
+# METADATA: {"qid": "35bf3490096d11ebbdafac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Are both Kurram Garhi and Trojkrsti located in the same country?
+A: Kurram Garhi is located in the country of Pakistan. Trojkrsti is located in the country of Republic of Macedonia. Thus, they are not in the same country. So the answer is: no.
+
+
+# METADATA: {"qid": "e5150a5a0bda11eba7f7acde48001122"}
+Q: Answer the following question by reasoning step-by-step.
+When did the director of film Laughter In Hell die?
+A: The film Laughter In Hell was directed by Edward L. Cahn. Edward L. Cahn died on August 25, 1963. So the answer is: August 25, 1963.
+
+
+# METADATA: {"qid": "f44939100bda11eba7f7acde48001122"}
+Q: Answer the following question by reasoning step-by-step.
+What is the cause of death of Grand Duke Alexei Alexandrovich Of Russia's mother?
+A: The mother of Grand Duke Alexei Alexandrovich of Russia is Maria Alexandrovna. Maria Alexandrovna died from tuberculosis. So the answer is: tuberculosis.
+
+
+# METADATA: {"qid": "af8c6722088b11ebbd6fac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Are the directors of films The Sun of the Sleepless and Nevada (1927 film) both from the same country?
+A: The director of Sun of the Sleepless is Temur Babluani. The director of Nevada (1927 film) is John Waters. John Waters is from the country of America. Temur Babluani is from the country of Georgia. Thus, John Walters and Temur Babluani are not from the same country. So the answer is: no.
+
+
+# METADATA: {"qid": "8727d1280bdc11eba7f7acde48001122"}
+Q: Answer the following question by reasoning step-by-step.
+When was the director of film P.S. Jerusalem born?
+A: P.S. Jerusalem was directed by Danae Elon. Danae Elon was born on December 23, 1970. So the answer is: December 23, 1970.
+
+
+# METADATA: {"qid": "5811079c0bdc11eba7f7acde48001122"}
+Q: Answer the following question by reasoning step-by-step.
+When did the director of film Hypocrite (Film) die?
+A: The film Hypocrite was directed by Miguel Morayta. Miguel Morayta died on 19 June 2013. So the answer is: 19 June 2013.
+
+
+# METADATA: {"qid": "79a863dc0bdc11eba7f7acde48001122"}
+Q: Answer the following question by reasoning step-by-step.
+Where did the director of film Maddalena (1954 Film) die?
+A: The film Maddalena is directed by Augusto Genina. Augusto Genina died in Rome. So the answer is: Rome.
+
+
+# METADATA: {"qid": "f86b4a28091711ebbdaeac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Which album was released earlier, What'S Inside or Cassandra'S Dream (Album)?
+A: What's Inside was released in the year 1995. Cassandra's Dream (album) was released in the year 2008. Thus, of the two, the album to release earlier is What's Inside. So the answer is: What's Inside.
+
+
+# METADATA: {"qid": "228546780bdd11eba7f7acde48001122"}
+Q: Answer the following question by reasoning step-by-step.
+What is the date of birth of the director of film Best Friends (1982 Film)?
+A: The film Best Friends was directed by Norman Jewison. Norman Jewison was born on July 21, 1926. So the answer is: July 21, 1926.
+
+
+# METADATA: {"qid": "c6805b2908a911ebbd80ac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Who was born first out of Martin Hodge and Ivania Martinich?
+A: Martin Hodge was born on 4 February 1959. Ivania Martinich was born on 25 July 1995. Thus, Martin Hodge was born first. So the answer is: Martin Hodge.
+
+
+# METADATA: {"qid": "97954d9408b011ebbd84ac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Do director of film Coolie No. 1 (1995 Film) and director of film The Sensational Trial have the same nationality?
+A: Coolie No. 1 (1995 film) was directed by David Dhawan. The Sensational Trial was directed by Karl Freund. David Dhawan's nationality is India. Karl Freund's nationality is Germany. Thus, they do not have the same nationality. So the answer is: no.
+
+
+# METADATA: {"qid": "028eaef60bdb11eba7f7acde48001122"}
+Q: Answer the following question by reasoning step-by-step.
+When did the director of film The Boy And The Fog die?
+A: The director of The Boy and the Fog is Roberto Gavaldón. Roberto Gavaldón died on September 4, 1986. So the answer is: September 4, 1986.
+
+
+# METADATA: {"qid": "c6f63bfb089e11ebbd78ac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Which film has the director born first, Two Weeks With Pay or Chhailla Babu?
+A: Two Weeks with Pay was directed by Maurice Campbell. Chhailla Babu was directed by Joy Mukherjee. Maurice Campbell was born on November 28, 1919. Joy Mukherjee was born on 24 February 1939. Thus, from the two directors, Chhailla Babu was born first, who directed Two Weeks With Pay. So the answer is: Two Weeks With Pay.
+
+
+# METADATA: {"qid": "cdbb82ec0baf11ebab90acde48001122"}
+Q: Answer the following question by reasoning step-by-step.
+Who is Boraqchin (Wife Of Ögedei)'s father-in-law?
+A: Boraqchin is married to Ögedei Khan. Ögedei Khan's father is Genghis Khan. Thus, Boraqchin's father-in-law is Genghis Khan. So the answer is: Genghis Khan.
+
+
+# METADATA: {"qid": "f1ccdfee094011ebbdaeac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Which album was released more recently, If I Have to Stand Alone or Answering Machine Music?
+A: If I Have to Stand Alone was published in the year 1991. Answering Machine Music was released in the year 1999. Thus, of the two, the album to release more recently is Answering Machine Music. So the answer is: Answering Machine Music.
+
+
+# METADATA: {"qid": "1ceeab380baf11ebab90acde48001122"}
+Q: Answer the following question by reasoning step-by-step.
+Who is the grandchild of Krishna Shah (Nepalese Royal)?
+A: Krishna Shah has a child named Rudra Shah. Rudra Shah has a child named Prithvipati Shah. Thus, Krishna Shah has a grandchild named Prithvipati Shah. So the answer is: Prithvipati Shah.
+
+
+# METADATA: {"qid": "13cda43c09b311ebbdb0ac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Are both mountains, Serre Mourene and Monte Galbiga, located in the same country?
+A: Serre Mourene is located in Spain. Monte Galbiga is located in Italy. Thus, the two countries are not located in the same country. So the answer is: no.
+
+
+# METADATA: {"qid": "a5995da508ab11ebbd82ac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Which film has the director died later, The Gal Who Took the West or Twenty Plus Two?
+A: The film Twenty Plus Two was directed by Joseph M. Newman. The Gal Who Took the West was directed by Frederick de Cordova. Joseph M. Newman died on January 23, 2006. Fred de Cordova died on September 15, 2001. Thus, the person to die later from the two is Twenty Plus Two. So the answer is: Twenty Plus Two.
+
+
+# METADATA: {"qid": "4724c54e08e011ebbda1ac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Which film has the director died earlier, When The Mad Aunts Arrive or The Miracle Worker (1962 Film)?
+A: When The Mad Aunts Arrive was directed by Franz Josef Gottlieb. The Miracle Worker (1962 film) was directed by Arthur Penn. Franz Josef Gottlieb died on 23 July 2006. Arthur Penn died on September 28, 2010. Thus, of the two, the director to die earlier is Franz Josef Gottlieb, who directed When The Mad Aunts Arrive. So the answer is: When The Mad Aunts Arrive.
+
+
+# METADATA: {"qid": "5897ec7a086c11ebbd61ac1f6bf848b6"}
+Q: Answer the following question by reasoning step-by-step.
+Which film came out first, The Night Of Tricks or The Genealogy?
+A: The Night of Tricks was published in the year 1939. The Genealogy was published in the year 1979. Thus, The Night of Tricks came out first. So the answer is: The Night Of Tricks.

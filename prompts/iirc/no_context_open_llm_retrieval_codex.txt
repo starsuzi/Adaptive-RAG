@@ -1,0 +1,158 @@
+# METADATA: {"qid": "q_389"}
+Wikipedia Title: Walter Dill Scott
+Scott was born in Cooksville, Illinois near the town of Normal, Illinois. He lived on a farm until the age of 19 when he entered Illinois State Normal University. He remained at the university for two and a half years while teaching at country schools. With the aid of scholarship, he was able to attend Northwestern University in 1891 where he received a Bachelor of Arts degree in 1895. He desired to become a university president in China, so he enrolled at McCormick Theological Seminary; however, upon his graduation in 1898, he could not find a position. Instead, he decided to go to Germany with his wife and study psychology with Wilhelm Wundt at the University of Leipzig. While there, he received his Doctorate of Philosophy in psychology and education in 1900.
+
+Q: The question is: 'When was the town Scott was born in founded?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Cooksville, Illinois"]
+
+
+# METADATA: {"qid": "q_1672"}
+Wikipedia Title: Ernst Ottwalt
+In 1933, Ottwalt and his wife, Waltraut, left Germany and went into exile in Denmark, then, by way of Czechoslovakia, ended up in the Soviet Union. Living in Moscow, Ottwalt wrote for the German exile magazine Internationale Literatur (published by Johannes R. Becher) and was an editor at Vegaar Bibliothek. He also wrote for the Deutsche Zentral Zeitung. In 1936, he and his wife were ensnared in the Stalinist purges and arrested by the Soviet secret police, the NKVD. He was charged with suspicion of espionage, sentenced to forced labor and deported to a gulag near Archangelsk. His wife was sentenced to forced labor in Kotlas. She was deported back to Germany in January 1941 and didn't learn about his death until January 1958, when the Soviet Red Cross informed her that her husband had died on 24 August 1943.
+
+Q: The question is: 'When did the country Ottwalt went into exile in founded?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Denmark"]
+
+
+# METADATA: {"qid": "q_2466"}
+Wikipedia Title: Pilgrims (Plymouth Colony)
+The Pilgrims or Pilgrim Fathers were English settlers who established Plymouth Colony in Plymouth, Massachusetts. Their leadership came from the religious congregations of Brownists, or Separatist Puritans, who had fled religious persecution in England for the tolerance of 17th-century Holland in the Netherlands. They held Puritan Calvinist religious beliefs but, unlike most other Puritans, they maintained that their congregations should separate from the English state church. They eventually determined to establish a new settlement in the New World and arranged with investors to fund them. They established Plymouth Colony in 1620, which became the second successful English settlement in America, following the founding of Jamestown, Virginia in 1607. The Pilgrims' story became a central theme in the history and culture of the United States.
+
+Q: The question is: 'Which of the two congregations which provided leadership to the Pilgrims was founded first?'. Generate titles of 2 Wikipedia pages that have relevant information to answer this question.
+A: ["Brownist", "Puritans"]
+
+
+# METADATA: {"qid": "q_3208"}
+Wikipedia Title: Treblinka extermination camp
+Following the invasion of Poland in 1939 most of the 3.5 million Polish Jews were rounded up and put into newly established ghettos by Nazi Germany. The system was intended to isolate the Jews from the outside world in order to facilitate their exploitation and abuse. The supply of food was inadequate, living conditions were cramped and unsanitary, and the Jews had no way to earn money. Malnutrition and lack of medicine led to soaring mortality rates. In 1941, the initial victories of the Wehrmacht over the Soviet Union inspired plans for the German colonisation of occupied Poland, including all territory within the new district of General Government. At the Wannsee Conference held near Berlin on 20 January 1942, new plans were outlined for the genocide of the Jews, known as the "Final Solution" to the Jewish Question. The extermination programme was codenamed Aktion Reinhard in German, to differentiate it from the Einsatzgruppen mass killing operations in territories conquered by Nazi Germany, in which half a million Jews had already been annihilated.
+
+Q: The question is: 'How many people attended the conference held near Berlin in January 1942?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Wannsee Conference"]
+
+
+# METADATA: {"qid": "q_3268"}
+Wikipedia Title: 73rd (Perthshire) Regiment of Foot
+In April 1809 the regiment raised a second battalion in Nottingham from local militia companies and lost its Highland status due to recruiting difficulties, becoming the 73rd Regiment of Foot. The 1st Battalion embarked at Yarmouth for a seven-month journey to New South Wales, Australia in May 1809. The battalion's role was to ensure the newly appointed New South Wales Governor Lachlan Macquarie was able to govern after the previously appointed governor William Bligh was deposed by leading members of the New South Wales Corps (102nd Regiment of Foot) in the Rum Rebellion. There in 1810 they received a draft of men from the New South Wales Corps. The 73rd Regiment was under the command of Maurice Charles O'Connell who married Mary Putland, the widowed daughter of William Bligh in May 1810, which created ongoing tension with the leaders of the Rum Rebellion (such as John Macarthur) who were highly influential members of society within New South Wales. To reduce these tensions, the main body of the battalion left New South Wales in April 1814 on the General Hewitt for Ceylon. During the tour in Ceylon the battalion was under the command of Lieutenant Colonel Andrew Giels, whose children, along with hundreds of wounded men of the regiment, perished in May 1815 in the wreck of the Arniston after visiting him there.
+
+Q: The question is: 'How many years was the ship that took the battalion from New South Wales to Ceylon in service?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["General Hewett (1811 ship)"]
+
+
+# METADATA: {"qid": "q_3283"}
+Wikipedia Title: Lisa's Sax
+While telling Bart and Lisa about 1990, Homer says, "Tracey Ullman was entertaining America with [...] crudely drawn filler material." This is a reference to The Simpsonss debut as "bumpers" airing before and after commercials on The Tracey Ullman Show. The song "Those Were the Days" parodies the opening credits of the television show All in the Family. One of the people who run over the saxophone is a man on a tricycle, who promptly falls over. This is a reference to the show Rowan & Martin's Laugh-In. At the beginning of the flashback, the song "Don't Worry, Be Happy" by Bobby McFerrin can be heard. In the flashback, Dr. Hibbert fashioned his hair and attire like Mr. T in The A-Team. Homer can be seen watching Twin Peaks and The Giant is then shown waltzing with the White Horse. In King Toot's music store, when Homer buys Lisa her first saxophone, there is a guitar in the background that is similar to Eddie Van Halen's "Frankenstrat" guitar. The photo beside Kent Brockman on the news has him modeled after the Coppertone Girl. At the end of the episode, Lisa performs a brief, cruder rendition of the hook of "Baker Street" by Gerry Rafferty on her new saxophone before the music segues into the original song.
+
+Q: The question is: 'Who plays the A-Team character that Dr. Hibbert fashioned his hair after?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Mr. T"]
+
+
+# METADATA: {"qid": "q_3290"}
+Wikipedia Title: PAOK FC
+The first domestic title PAOK won, was the 1971–72 Greek Cup. PAOK eliminated Pierikos, Aias Salamina, local rivals Aris in the quarter-finals with a 2–1 victory at Kleanthis Vikelidis Stadium and progressed to the final with their semi-final victory over Lamia. This time PAOK would face league champions Panathinaikos who also reached the 1971 European Cup Final. The final was played once again in Athens at Georgios Karaiskakis Stadium. PAOK players had 10,000 fans on their side and they vowed that it was about time to return with the trophy at Thessaloniki. It was the sixth final for the Double-Headed Eagle of the North and the fifth time that they traveled to Athens for the trophy match. PAOK won the game 2–1 with Koudas scoring both goals. In the second half, a magnificent bicycle kick of Matzourakis found the net, but the goal was surprisingly disallowed by referee Michas. PAOK triumph and 1st Greek Cup title was widely celebrated by the fans at Thessaloniki.
+
+Q: The question is: 'Which was the older of the two players who found the net in the Double-Headed Eagle of the North in the sixth final for PAOK?'. Generate titles of 2 Wikipedia pages that have relevant information to answer this question.
+A: ["Giorgos Koudas", "Giannis Matzourakis"]
+
+
+# METADATA: {"qid": "q_8173"}
+Wikipedia Title: David Lee Roth
+Roth hired 19-year-old guitar virtuoso Jason Becker to replace Vai prior to recording his third solo LP, A Little Ain't Enough. A straight-ahead hard rock album produced by Bob Rock (who had just produced Metallica's self-titled album), A Little Ain't Enough achieved RIAA gold status shortly after its January 1991 release. Before starting a support tour for A Little Ain't Enough, Becker was diagnosed with Lou Gehrig's disease, rendering him unable to perform onstage. Guitarist Joe Holmes stood in for Becker during the tour. Later in 1991, Nirvana and grunge rock emerged, altering musical tastes and suddenly making Roth's brand of hard rock seem unfashionable. Roth's band fractured shortly following the tour's completion. With one exception – 1997's well-received DLR Band album, featuring guitarist John 5 and drummer Ray Luzier – until his reconciliation with Van Halen in 2006, Roth would utilize hired-hands and studio musicians on his club and amphitheater solo tours.
+
+Q: The question is: 'When was the person who produced A Little Ain't Enough born?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Bob Rock"]
+
+
+# METADATA: {"qid": "q_8350"}
+Wikipedia Title: William Wright (privateer)
+Wright, with French Captains Archembeau and Toccart, sailed to Corn Island and then to Bluefield's River where he left the French privateers. Arriving in Bocas del Toro several weeks later Wright joined with Dutch Captain Yankey Willems, who himself had no commission, and departed with Yanky from Boca del Toro in September sailing south along Colombia where Yanky captured a Spanish merchant ship carrying sugar and tobacco. Wright receiving Yanky's barque, as Yanky kept the merchant ship, burned his own ship and sold the Spanish tartane he had taken near Cartago to one of the Jamaican traders on board. At Curaçao they attempted to sell the Spanish cargo but were forced to leave by the Dutch Governor. They continued to sail to the Isla Aves and Islas Roques where they remained until February 1682. Returning to Islas Roques later in 1682, Wright parted from Williems, where he and his crew divided their loot and dispersed. Wright may have returned to his home in French Hispaniola. William Dampier, who had been sailing as a member of Wrights's and Willems' crew, left with John Cook and others to return to Virginia before returning to buccaneering.
+
+Q: The question is: 'In what country did Wright leave the French privateers?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Bluefields"]
+
+
+# METADATA: {"qid": "q_8736"}
+Wikipedia Title: Eclipse Tour
+The Eclipse Tour was a concert tour by American rock band Journey. It was in support of the group's fourteenth studio album Eclipse. The album is Arnel Pineda's second since joining the band in 2007. Special guests on the 2011 tour include Foreigner and Night Ranger for most of the North American dates, Styx for the European dates, and Sweet for South American dates. The tour was the sixth top-grossing concert tour from July 23, 2011 to September 23, 2011 bringing in over $21 million and selling over 900,000 tickets. For the 2012 U.S. tour, special guests were Pat Benatar and Loverboy, and the guests for the 2013 tour were Deep Purple for the Australian dates, and Whitesnake for the European dates. For the 2014–2015 tour, the Steve Miller Band co-headlined. The 2016 tour saw the band play with The Doobie Brothers, as well as signal the return of "classic" drummer Steve Smith after longtime drummer Deen Castronovo was fired from the group. The 2017 tour had Asia co-headline, and also included the band's induction and performance at their induction into the Rock and Roll Hall of Fame. This tour is also the longest-running in the entire history of the band.
+
+Q: The question is: 'How long had the Rock and Roll Hall of Fame been open when the band was inducted into it?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Rock and Roll Hall of Fame"]
+
+
+# METADATA: {"qid": "q_8776"}
+Wikipedia Title: 2016 NFL Draft
+The 2016 NFL Draft was the 81st annual meeting of National Football League (NFL) franchises to select newly eligible American football players. As in 2015, the draft took place in Chicago, Illinois at the Auditorium Theatre and Grant Park. The draft began on Thursday, April 28 with the first round, and ended on Saturday, April 30. The Tennessee Titans, the team with the fewest wins in the NFL for the 2015 season, traded the right to the top pick in the draft to the Los Angeles Rams, the first time the top pick was traded before the draft since 2001 when the San Diego Chargers traded their first pick to the Atlanta Falcons. Ohio State became the second school to have three players drafted in the top ten and to have five players drafted in the first round.
+
+Q: The question is: 'What year was the theatre that held the 2016 NFL Draft built?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Auditorium Theatre"]
+
+
+# METADATA: {"qid": "q_8981"}
+Wikipedia Title: Ivana Fišer
+Fišer was born in Zagreb on June 13, 1905 to a Jewish family of well-known Croatian architect Ignjat Fischer and his wife Helena (née Egersrodfer). She attended elementary and music school in Zagreb. Fišer graduated from the Academy of Music, University of Zagreb under Fran Lhotka as the first female conductor in Croatia. Soon after she left for Salzburg where she was perfecting herself at the Mozarteum University of Salzburg. From 1931 to 1934, Fišer worked as violinist at the Croatian Music Institute orchestra. As a conductor, Fišer debuted in 1933 while directing the comic opera Bastien und Bastienne with Zagreb philharmonic orchestra. From 1939 to 1941, she led the Zagreb Red Cross orchestra. Until 1941, she also led the Osijek philharmonic orchestra. From 1947 to 1965, Fišer worked as a prompter at the Croatian National Theatre in Zagreb.
+
+Q: The question is: 'Which of the schools Fiser is affiliated with was founded first?'. Generate titles of 3 Wikipedia pages that have relevant information to answer this question.
+A: ["academy of music, university of zagreb", "Mozarteum University Salzburg", "Croatian Music Institute"]
+
+
+# METADATA: {"qid": "q_9433"}
+Wikipedia Title: Tetsuro Uki
+Uki was born in Matsudo on October 4, 1971. After graduating from Tokyo Gakugei University, he joined Japan Football League club Tokyo Gas in 1994. He became a regular player as center back from first season. In 1997, he moved to J1 League club JEF United Ichihara. However he could hardly play in the match. In 1998, he returned to Tokyo Gas and the club won the champions in 1998 season. In 1999, he moved to newly was promoted to J2 League club, Omiya Ardija. Although he played as center back until July 1999, he was converted to defensive midfielder in August. In 2001, he moved to J2 club Montedio Yamagata. He played as regular defensive midfielder. In 2002, he moved to J2 club Oita Trinita. He played as regular defensive midfielder and the club won the champions in 2002 and was promoted to J1 from 2003. However he could hardly play in the match in 2003. In 2004, he moved to J2 club Shonan Bellmare. He played many matches as defensive midfielder and center back. In August 2005, he moved to J2 club Yokohama FC and played many matches as center back. In 2006, he moved to Japan Football League club FC Kariya. Although he played many matches as regular player, the club results were bad and manager Nariyasu Yasuhara was sacked in July 2007. Uki retired and became a new manager as Yasuhara successor.
+
+Q: The question is: 'When was the J2 club Uki played for in 2001 founded?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Montedio Yamagata"]
+
+
+# METADATA: {"qid": "q_9499"}
+Wikipedia Title: Stefano Nava
+He returned to Milan in 1990, where he was a reserve in the first team's defence, behind the legendary Maldini, Baresi, Costacurta, Tassotti back-line, which is regarded by many as the sport as one of the greatest difensive line-ups of all time. He made his Milan debut on 5 September 1990, in a 1–0 home Coppa Italia victory over Triestina, as Milan went on to reach the final of the tournament. He made his Serie A debut with the club on 3 March 1991, in a 4–1 home win over Napoli. In his four non-consecutive seasons with Milan (1990–91 under Arrigo Sacchi, and 1992–995 under Fabio Capello), Nava made a total of 47 appearances in all competitions, and 21 Serie A league appearances, scoring 1 goal, which came in Serie A. During his time at the club he won two Serie A titles, three Supercoppa Italiana titles, two UEFA Super Cups, an UEFA Champions League, and an Intercontinental Cup. He spent the 1991–92 season only loan with Parma, where he won the Coppa Italia. His final appearance with Milan was in a 5–0 away victory against Brescia, during the 1994–95 Serie A season, on 5 March 1995.
+
+Q: The question is: 'How long had Milan been established by the year that Nava returned there as a reserve in the first team's defense?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["A.C. Milan"]
+
+
+# METADATA: {"qid": "q_9518"}
+Wikipedia Title: Scott Baker (right-handed pitcher)
+Baker grew up in Shreveport, Louisiana, and attended Oklahoma State University. He was drafted by the Twins in the second round of the 2003 amateur entry draft and reached the major leagues in 2005. In 2006, he made their starting rotation out of Spring training but struggled and was sent to the minor leagues for most of the rest of the season. Beginning 2007 in the minors, he was called up in May and nearly threw a perfect game on August 31. He went 11–4 in 2008 and posted a 3.45 earned run average (ERA). In 2009, Baker logged a career-high 200 innings and started the American League (AL) tiebreaker game against the Detroit Tigers which the Twins won to advance to the postseason. He had a 12–9 record in 2010 but battled injuries towards the end of the year and was left out of the Twins' postseason rotation. Injuries limited Baker in 2011 again, but he was the only Twins' pitcher to post a winning record. He missed 2012 after undergoing Tommy John surgery; this also caused him to miss most of 2013, which he spent with the Chicago Cubs. He began 2014 in the minor leagues but was later added to the Texas Rangers' roster.
+
+Q: The question is: 'How many years after the first recorded Tommy John surgery did Scott Baker undergo his?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Ulnar collateral ligament reconstruction"]
+
+
+# METADATA: {"qid": "q_9591"}
+Wikipedia Title: Sewing
+During the Middle Ages, Europeans who could afford it employed seamstresses and tailors. The vital importance of sewing was indicated by the honorific position of "Lord Sewer" at many European coronations from the Middle Ages. An example was Robert Radcliffe, 1st Earl of Sussex who was appointed Lord Sewer at the coronation of Henry VIII of England in 1509. Sewing for the most part was a woman's occupation, and most sewing before the 19th century was practical. Clothing was an expensive investment for most people, and women had an important role in extending the longevity of items of clothing. Sewing was used for mending. Clothing that was faded would be turned inside-out so that it could continue to be worn, and sometimes had to be taken apart and reassembled in order to suit this purpose. Once clothing became worn or torn, it would be taken apart and the reusable cloth sewn together into new items of clothing, made into quilts, or otherwise put to practical use. The many steps involved in making clothing from scratch (weaving, pattern making, cutting, alterations, and so forth) meant that women often bartered their expertise in a particular skill with one another. Decorative needlework such as embroidery was a valued skill, and young women with the time and means would practise to build their skill in this area. From the Middle Ages to the 17th century, sewing tools such as needles, pins and pincushions were included in the trousseaus of many European brides.
+
+Q: The question is: 'Did the Lord Sewer who was appointed at the 1509 coronation live longer than his king?'. Generate titles of 2 Wikipedia pages that have relevant information to answer this question.
+A: ["Robert Radcliffe, 1st Earl of Sussex", "Henry VIII of England"]
+
+
+# METADATA: {"qid": "q_10227"}
+Wikipedia Title: James Dearing
+Dearing traveled to Richmond, Virginia, getting a commission as lieutenant of artillery in the Virginia Militia. He joined the recently arrived Washington Artillery from New Orleans, Louisiana; and was commissioned as 2nd Lieutenant and drill instructor in the 3rd company. He participated in the First Battle of Bull Run while being assigned to the 1st company as part of the 4th Brigade of Colonel Jubal Early in the Army of the Potomac, and served as volunteer aide to his battalion commander Major James B. Walton. Dearing was promoted to 1st Lieutenant in July 1861; and to Captain in April 1862 when he became commander of the reorganized Lynchburg ("Latham´s") Battery. Dearing's (Virginia) Battery was attached to George E. Pickett's Brigade and supported it in the Peninsular Campaign, where Dearing was highly praised by Lieutenant General James Longstreet, and in the Second Battle of Bull Run. When Pickett was elevated to division command in Longstreet's First Corps in September Dearing's battery was assigned to the division and fought in the Battle of Fredericksburg.
+
+Q: The question is: 'How many casualties were there at the battle that Dearing fought at under Jubal Early?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["First Battle of Bull Run"]
+
+
+# METADATA: {"qid": "q_10236"}
+Wikipedia Title: 2008 New York Jets season
+Hoping to rebound from their divisional home loss to the Patriots, the Jets flew to Qualcomm Stadium for a Week 3 MNF duel with the San Diego Chargers. In the first quarter, New York took flight as CB David Barrett returned an interception 25 yards for a touchdown. The Chargers responded with kicker Nate Kaeding getting a 36-yard field goal, along with QB Philip Rivers completing a 1-yard TD pass to FB Mike Tolbert. In the second quarter, San Diego increased its lead with CB Antonio Cromartie returning an interception 52 yards for a touchdown. The Jets answered with QB Brett Favre completing a 3-yard TD pass to WR Laveranues Coles. The turning point in the game occurred on the following kickoff, an on-side kick, which traveled only 15 yards before the Chargers picked up the ball. They then added a touchdown, with Rivers completing a 27-yard TD pass to WR Chris Chambers. Following another interception, the Chargers scored again with a 6-yard TD pass to TE Antonio Gates.
+
+Q: The question is: 'What is the age difference between the kicker and the quarterback for the Chargers?'. Generate titles of 2 Wikipedia pages that have relevant information to answer this question.
+A: ["Nate Kaeding", "Philip Rivers"]
+
+
+# METADATA: {"qid": "q_10270"}
+Wikipedia Title: February 24
+For superstitious reasons, when the Romans began to intercalate to bring their calendar into line with the solar year, they chose not to place their extra month of Mercedonius after February but within it. February 24—known in the Roman calendar as "the sixth day before the Kalends of March"—was replaced by the first day of this month since it followed Terminalia, the festival of the Roman god of boundaries. After the end of Mercedonius, the rest of the days of February were observed and the new year began with the first day of March. The overlaid religious festivals of February were so complicated that Julius Caesar opted not to change it at all during his 46 calendar reform. The extra day of his system's leap years were located in the same place as the old intercalary month but he opted to ignore it as a date. Instead, the sixth day before the Kalends of March was simply said to last for 48 hours and all the other days continued to bear their original names. (The Roman practice of inclusive counting initially caused the priests in charge of the calendar to add the extra hours every three years instead of every four and Augustus was obliged to omit them for a span of decades until the system was back to where it should have been.) When the extra hours finally began to be reckoned as two separate days instead of a doubled sixth ("bissextile") one, the leap day was still taken to be the one following hard on the February 23 Terminalia. Although February 29 has been popularly understood as the leap day of leap years since the beginning of sequential reckoning of the days of months in the late Middle Ages, in Britain and most other countries, no formal replacement of February 24 as the leap day of the Julian and Gregorian calendars has occurred. The exceptions include Sweden and Finland, who enacted legislation to move the day to February 29. This custom still has some effect around the world, for example with respect to name days in Hungary.
+
+Q: The question is: 'What year was the man who implemented the 46 calendar reform born?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Julius Caesar"]
+
+
+# METADATA: {"qid": "q_10344"}
+Wikipedia Title: Manuchar I Jaqeli
+Manuchar I Jaqeli () (1452 – died after 1518) was a Prince and Atabeg of Samtskhe-Saatabago from 1515 to 1518. He was a member of the Jaqeli family and youngest son of Qvarqvare II Jaqeli. After his older brother Mzetchabuk's abdication Manuchar started an uprising against his nephew Qvarqvare, the son of Kaikhosro I. Manuchar's revolt finished successfully and he ascended to the Meskhetian throne. During his brief reign Manuchar sent many gifts to the Ottoman sultan Selim I and claimed himself as an admier of Ottomans. In 1518 the new revolt started. Prince Qvarqvare with the help of Safavid troops attacked Samtskhe. Manuchar was overthrown and Qvarqvare became the new ruler of Meskheti. After this Manuchar asked his suzerain Sultan Selim for help. Sultan gave him the huge army. He had tried to restore himself as Atabeg, but was defeated by Qvarqvare's forces at the battle near Erzurum. Manuchar Jaqeli escaped to the Ottoman empire and lived there until his death. Nothing is known about his later life and descendants.
+
+Q: The question is: 'When was the place near where Manuchar was defeated by Qvarqvare established?'. Generate titles of 1 Wikipedia pages that have relevant information to answer this question.
+A: ["Erzurum"]

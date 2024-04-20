@@ -1,0 +1,11 @@
+elasticsearch==7.9.1 # required this version
+tqdm
+dill
+base58
+fastapi
+jsonnet
+pygments
+uvicorn
+requests
+beautifulsoup4
+blingfire

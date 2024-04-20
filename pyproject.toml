@@ -1,0 +1,28 @@
+[tool.black]
+line-length = 120
+force-exclude = '''
+archive
+datasets
+solver_outputs
+'''
+
+[tool.ruff]
+target-version = "py38"
+line-length = 120
+ignore-init-module-imports = true
+select = [
+    "F",  # pyflakes (default)
+    "E",  # pycodestyle errors (default)
+]
+ignore = [
+    "E501",  # line too long, handled by black
+    "B008",  # do not perform function calls in argument defaults
+    "C901",  # too complex
+]
+extend-exclude = ["archive", "datasets", "solver_outputs"]
+respect-gitignore = true
+show-source = false
+[tool.ruff.isort]
+lines-after-imports = 2
+[tool.ruff.pydocstyle]
+convention = "google"
