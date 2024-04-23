@@ -114,7 +114,7 @@ Next, if you want to use FLAN-T5 series models, start the llm_server (for flan-t
 MODEL_NAME={model_name} uvicorn serve:app --port 8010 --app-dir llm_server # model_name: flan-t5-xxl, flan-t5-xl
 ```
 
-## Run three different Retrieval strategies
+## Run Three Different Retrieval Strategies
 Now, let's run three different retrieval strategies: multi, single, and zero, on the dev set, which will later be used as the training set for training a classifier.
 ```bash
 # export OPENAI_API_KEY='YOUR_API_KEY' # uncomment for the 'gpt' model 
@@ -138,7 +138,7 @@ bash run_retrieval_test.sh $SYSTEM $MODEL $DATASET $LLM_PORT_NUM
 ```
 We provide all the results for three different retrieval strategies in `predictions.tar.gz`.
 
-## Run classifier for Adaptive-RAG
+## Run Classifier for Adaptive-RAG
 
 These are the lines for preprocessing the dataset for QA tasks used to measure the performance of our Adaptive-RAG.
 ```bash
