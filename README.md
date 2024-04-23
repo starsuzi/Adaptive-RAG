@@ -136,7 +136,7 @@ LLM_PORT_NUM='8010'
 
 bash run_retrieval_test.sh $SYSTEM $MODEL $DATASET $LLM_PORT_NUM
 ```
-We provide all the results for three different retrieval strategies in `predictions.tar.gz`.
+We provide all the results for three different retrieval strategies in [`predictions.tar.gz`](./predictions.tar.gz).
 
 ## Run Classifier for Adaptive-RAG
 
