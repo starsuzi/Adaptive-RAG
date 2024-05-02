@@ -1,0 +1,455 @@
+{
+    "MuSiQue-Answerable": [
+        {
+            "system_title": "End2End Model [EE]",
+            "experiments": [
+                {
+                    "experiment_title": "",
+                    "experiment_name": "end2end_model_for_musique_ans_dataset",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_ans_dev.jsonl",
+                            "predictor": "transformer_rc",
+                            "gdrive_id": "1R-Jlg6V3QTCdtq83Inc7Wg5pCfaUqdZi"
+                        }
+                    ],
+                    "gdrive_id": "1tcyIIAB1sLhAxqTVeMBlftMjC5FGYteQ"
+                }
+            ]
+        },
+        {
+            "system_title": "Select+Answer Model [SA]",
+            "preamble": "The system has 2 parts given below: (i) Selector Model (ii) Answerer Model",
+            "experiments": [
+                {
+                    "experiment_title": "Selector Model",
+                    "experiment_name": "select_and_answer_model_selector_for_musique_ans",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_ans_train.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "12w0NLvQSE1zxIZ8DVKtsqA6_o1RkqOms"
+                        },
+                        {
+                            "path": "raw_data/musique_ans_dev.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1k4hlOfQ8iviIhRFjiDpskm9WYhk6PB-b"
+                        }
+                    ],
+                    "gdrive_id": "115dHg4q1TBbbVLL1zSrWt3LfPedsSxHR"
+                },
+                {
+                    "experiment_title": "Answerer Model",
+                    "experiment_name": "select_and_answer_model_answerer_for_musique_ans",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/select_and_answer_model_selector_for_musique_ans/predictions/musique_ans_dev.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1iwsmKK9KuLQqRHKZ1s_UCblIY4iaL90X"
+                        }
+                    ],
+                    "gdrive_id": "1qezRaHFrGduq0ndqIoKb-GMGEb19k5Ov"
+                }
+            ]
+        },
+        {
+            "system_title": "Execution by End2End Model [EX(EE)]",
+            "preamble": "The system has 2 parts given below: (i) Decomposer Model (ii) Executor Model.",
+            "experiments": [
+                {
+                    "experiment_title": "Decomposer Model",
+                    "experiment_name": "execution_model_decomposer_for_musique_ans_and_full",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_ans_dev.jsonl",
+                            "predictor": "question_translator",
+                            "gdrive_id": "1LyU8dbmyqq4pyYG0d9xaJ-WLYAzhwF8o"
+                        }
+                    ],
+                    "gdrive_id": "142kRLXwc6zP4CAuvQtNRwx31DpgJ_mGu"
+                },
+                {
+                    "experiment_title": "Executor Model",
+                    "experiment_name": "execution_by_end2end_model_for_musique_ans",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/execution_model_decomposer_for_musique_ans_and_full/predictions/musique_ans_dev.jsonl",
+                            "predictor": "multi_step_end2end_transformer_rc",
+                            "predictor_args": "{\"predict_answerability\":false,\"skip_distractor_paragraphs\":false,\"use_predicted_decomposition\":true}",
+                            "gdrive_id": "1QCJKTIUnUQDuZoJe0mBw2YKeBc0f3f8P"
+                        }
+                    ],
+                    "gdrive_id": "1R9mi2zQD61OHeYKIcAKux9K_vXmtwEaR"
+                }
+            ]
+        },
+        {
+            "system_title": "Execution by Select+Answer Model [EX(SA)]",
+            "preamble": "The system has 3 parts given below: (i) Decomposer Model (ii) Selector of Executor Model (iii) Answerer of Executor Model.",
+            "experiments": [
+                {
+                    "experiment_title": "Decomposer Model",
+                    "experiment_name": "execution_model_decomposer_for_musique_ans_and_full",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_ans_dev.jsonl",
+                            "predictor": "question_translator",
+                            "gdrive_id": "1LyU8dbmyqq4pyYG0d9xaJ-WLYAzhwF8o"
+                        }
+                    ],
+                    "gdrive_id": "142kRLXwc6zP4CAuvQtNRwx31DpgJ_mGu"
+                },
+                {
+                    "experiment_title": "Selector of Executor Model",
+                    "experiment_name": "execution_by_select_and_answer_model_selector_for_musique_ans",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_ans_single_hop_version_train.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1yr6gx8Y8elq0Y-tO-JB_FbZ6jTibQNv9"
+                        },
+                        {
+                            "path": "raw_data/musique_ans_single_hop_version_dev.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1qZyiI9VFpfonv0QkrL27iKE6kWwuwNkr"
+                        }
+                    ],
+                    "gdrive_id": "1k24igeW5XvqrZ_LTbpzHUPXTANccAwz1"
+                },
+                {
+                    "experiment_title": "Answerer of Executor Model",
+                    "experiment_name": "execution_by_select_and_answer_model_answerer_for_musique_ans",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/execution_model_decomposer_for_musique_ans_and_full/predictions/musique_ans_dev.jsonl",
+                            "predictor": "multi_step_select_and_answer_transformer_rc",
+                            "predictor_args": "{\"predict_answerability\":false,\"skip_distractor_paragraphs\":false,\"use_predicted_decomposition\":true,\"selector_model_path\":\"serialization_dir/execution_by_select_and_answer_model_selector_for_musique_ans/model.tar.gz\",\"num_select\":3}",
+                            "gdrive_id": "1u8v49Hs6sNEJexJ292RckuOZhmFHVOfE"
+                        }
+                    ],
+                    "gdrive_id": "1GsV1rNQ-ec69NhQfn3sXUkGtjlN36shi"
+                }
+            ]
+        }
+    ],
+    "MuSiQue-Full": [
+        {
+            "system_title": "End2End Model [EE]",
+            "experiments": [
+                {
+                    "experiment_title": "",
+                    "experiment_name": "end2end_model_for_musique_full_dataset",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_full_dev.jsonl",
+                            "predictor": "transformer_rc",
+                            "gdrive_id": "192lkAq02mpsYQMaP3h0tlwO08BGfaCRP"
+                        }
+                    ],
+                    "gdrive_id": "1sXyl334InRdrdeOcCc7ZJ0Xu7rBnXvnu"
+                }
+            ]
+        },
+        {
+            "system_title": "Select+Answer Model [SA]",
+            "preamble": "The system has 2 parts given below: (i) Selector Model (ii) Answerer Model.",
+            "experiments": [
+                {
+                    "experiment_title": "Selector Model",
+                    "experiment_name": "select_and_answer_model_selector_for_musique_full",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_full_train.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1x4EhaIeK2Am-6F7hCf42W8gXQbcWPMLJ"
+                        },
+                        {
+                            "path": "raw_data/musique_full_dev.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1HrQjPBD6eqXil2d5RSY4-BX_edS84TqJ"
+                        }
+                    ],
+                    "gdrive_id": "1hOAV6dSIR2uSRzJ3yJbF-I14Sd_1WLdD"
+                },
+                {
+                    "experiment_title": "Answerer Model",
+                    "experiment_name": "select_and_answer_model_answerer_for_musique_full",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/select_and_answer_model_selector_for_musique_full/predictions/musique_full_dev.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1AwVafYM6sESzw3T6tI-PIErIvqWySOE9"
+                        }
+                    ],
+                    "gdrive_id": "1dkXgGaDJ5AIT0jDIDZfUXGOIq38YqMpp"
+                }
+            ]
+        },
+        {
+            "system_title": "Execution by End2End Model [EX(EE)]",
+            "preamble": "The system has 2 parts given below: (i) Decomposer Model (ii) Executor Model.",
+            "experiments": [
+                {
+                    "experiment_title": "Decomposer Model",
+                    "experiment_name": "execution_model_decomposer_for_musique_ans_and_full",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_full_dev.jsonl",
+                            "predictor": "question_translator",
+                            "gdrive_id": "12qkupIzdos-uwn916Yg-TX6VT848iG5f"
+                        }
+                    ],
+                    "gdrive_id": "142kRLXwc6zP4CAuvQtNRwx31DpgJ_mGu"
+                },
+                {
+                    "experiment_title": "Executor Model",
+                    "experiment_name": "execution_by_end2end_model_for_musique_full",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/execution_model_decomposer_for_musique_ans_and_full/predictions/musique_full_dev.jsonl",
+                            "predictor": "multi_step_end2end_transformer_rc",
+                            "predictor_args": "{\"predict_answerability\":true,\"skip_distractor_paragraphs\":false,\"use_predicted_decomposition\":true}",
+                            "gdrive_id": "1nNvuFibGIbru-HzjyBWfKgg_49GBh0Ok"
+                        }
+                    ],
+                    "gdrive_id": "1J7FzTjU0n9POEqeDXt5ziTQOvRcmm5h9"
+                }
+            ]
+        },
+        {
+            "system_title": "Execution by Select+Answer Model [EX(SA)]",
+            "preamble": "The system has 3 parts given below: (i) Decomposer Model (ii) Selector of Executor Model (iii) Answerer of Executor Model.",
+            "experiments": [
+                {
+                    "experiment_title": "Decomposer Model",
+                    "experiment_name": "execution_model_decomposer_for_musique_ans_and_full",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_full_dev.jsonl",
+                            "predictor": "question_translator",
+                            "gdrive_id": "12qkupIzdos-uwn916Yg-TX6VT848iG5f"
+                        }
+                    ],
+                    "gdrive_id": "142kRLXwc6zP4CAuvQtNRwx31DpgJ_mGu"
+                },
+                {
+                    "experiment_title": "Selector of Executor Model",
+                    "experiment_name": "execution_by_select_and_answer_model_selector_for_musique_full",
+                    "predictions": [
+                        {
+                            "path": "raw_data/musique_full_single_hop_version_train.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "13yWxJJoI8xE_j9u3ojp6WHV4YH2Scr9k"
+                        },
+                        {
+                            "path": "raw_data/musique_full_single_hop_version_dev.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1eQhpMwiIa6R5ba2C0YZBCCgEcVcGP6a8"
+                        }
+                    ],
+                    "gdrive_id": "1W7_wpUzHZtbmlMqDGoCUQ8-lrCVcLRN2"
+                },
+                {
+                    "experiment_title": "Answerer of Executor Model",
+                    "experiment_name": "execution_by_select_and_answer_model_answerer_for_musique_full",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/execution_model_decomposer_for_musique_ans_and_full/predictions/musique_full_dev.jsonl",
+                            "predictor": "multi_step_select_and_answer_transformer_rc",
+                            "predictor_args": "{\"predict_answerability\":true,\"skip_distractor_paragraphs\":false,\"use_predicted_decomposition\":true,\"selector_model_path\":\"serialization_dir/execution_by_select_and_answer_model_selector_for_musique_full/model.tar.gz\",\"num_select\":3}",
+                            "gdrive_id": "1egcFmuWgNmlniuj4Mwwo-i8ez5x3fo_s"
+                        }
+                    ],
+                    "gdrive_id": "1vvl3PybD91cjYj7trfoq8MtNnoXWcNIc"
+                }
+            ]
+        }
+    ],
+    "HotpotQA": [
+        {
+            "system_title": "End2End Model [EE]",
+            "experiments": [
+                {
+                    "experiment_title": "",
+                    "experiment_name": "end2end_model_for_hotpotqa_20k_dataset",
+                    "predictions": [
+                        {
+                            "path": "raw_data/hotpotqa_dev_20k.jsonl",
+                            "predictor": "transformer_rc",
+                            "gdrive_id": "197YkZUkMQDkjVmVSQwTKTh5PjNsFcDFT"
+                        }
+                    ],
+                    "gdrive_id": "1c8fEak_VOZ7cfGnudDxlMNtdcO_rLuMI"
+                }
+            ]
+        },
+        {
+            "system_title": "Select+Answer Model [SA]",
+            "preamble": "The system has 2 parts given below: (i) Selector Model (ii) Answerer Model.",
+            "experiments": [
+                {
+                    "experiment_title": "Selector Model",
+                    "experiment_name": "select_and_answer_model_selector_for_hotpotqa_20k",
+                    "predictions": [
+                        {
+                            "path": "raw_data/hotpotqa_train_20k.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1c_yq6zG6dCekkAtmUvItPvTfp-OWWeDU"
+                        },
+                        {
+                            "path": "raw_data/hotpotqa_dev_20k.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1qkkLM-KejbcayE4WO6HWW5AurX0pWVNh"
+                        }
+                    ],
+                    "gdrive_id": "1JmRtb1TEjszwdR85wKXLFa0sWrME9Iqw"
+                },
+                {
+                    "experiment_title": "Answerer Model",
+                    "experiment_name": "select_and_answer_model_answerer_for_hotpotqa_20k",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/select_and_answer_model_selector_for_hotpotqa_20k/predictions/hotpotqa_dev_20k.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "15H-0X1sbqgVPMDt-tZ0_cF0tiRAyI_ix"
+                        }
+                    ],
+                    "gdrive_id": "1VYBMnv2g7aZKYXoR83wuQ6k4fTloHg8L"
+                }
+            ]
+        }
+    ],
+    "2WikiMultihopQA": [
+        {
+            "system_title": "End2End Model [EE]",
+            "experiments": [
+                {
+                    "experiment_title": "",
+                    "experiment_name": "end2end_model_for_2wikimultihopqa_20k_dataset",
+                    "predictions": [
+                        {
+                            "path": "raw_data/2wikimultihopqa_dev_20k.jsonl",
+                            "predictor": "transformer_rc",
+                            "gdrive_id": "1hJxGemqyyF-e49Hfygr7nZDDkK3NU3K1"
+                        }
+                    ],
+                    "gdrive_id": "10Vh9mYXTr-cUmj_GSfcBCuHbkOAh1lgz"
+                }
+            ]
+        },
+        {
+            "system_title": "Select+Answer Model [SA]",
+            "preamble": "The system has 2 parts given below: (i) Selector Model (ii) Answerer Model.",
+            "experiments": [
+                {
+                    "experiment_title": "Selector Model",
+                    "experiment_name": "select_and_answer_model_selector_for_2wikimultihopqa_20k_dataset",
+                    "predictions": [
+                        {
+                            "path": "raw_data/2wikimultihopqa_train_20k.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1GTn8zDl1XswvQPZ5sRmEaQdgklLmkTc5"
+                        },
+                        {
+                            "path": "raw_data/2wikimultihopqa_dev_20k.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1DUo43vEeqLd4IyeL8Ki-dXQiweD-hzHh"
+                        }
+                    ],
+                    "gdrive_id": "14ykuclMCS29vJTYiUx2a19K53-Elud7k"
+                },
+                {
+                    "experiment_title": "Answerer Model",
+                    "experiment_name": "select_and_answer_model_answerer_for_2wikimultihopqa_20k_dataset",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/select_and_answer_model_selector_for_2wikimultihopqa_20k_dataset/predictions/2wikimultihopqa_dev_20k.jsonl",
+                            "predictor": "transformer_rc",
+                            "gdrive_id": "1pJAAjAru_Gq8qsEIc9A5MPjUzVNAZKJQ"
+                        }
+                    ],
+                    "gdrive_id": "1m7qDIg5iRkiv4uNHTC7zOp1PaswVu383"
+                }
+            ]
+        },
+        {
+            "system_title": "Execution by End2End Model [EX(EE)]",
+            "preamble": "The system has 2 parts given below: (i) Decomposer Model (ii) Executor Model.",
+            "experiments": [
+                {
+                    "experiment_title": "Decomposer Model",
+                    "experiment_name": "execution_model_decomposer_for_2wikimultihopqa",
+                    "predictions": [
+                        {
+                            "path": "raw_data/2wikimultihopqa_dev_20k.jsonl",
+                            "predictor": "question_translator",
+                            "gdrive_id": "1L5rZm5HAX6OP8zya_EdfU2lkxANkINJ6"
+                        }
+                    ],
+                    "gdrive_id": "19fsUCFwJxcz5F2t_wTyTUOMvoxRxRTsf"
+                },
+                {
+                    "experiment_title": "Executor Model",
+                    "experiment_name": "execution_by_end2end_model_for_2wikimultihopqa",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/execution_model_decomposer_for_2wikimultihopqa/predictions/2wikimultihopqa_dev_20k.jsonl",
+                            "predictor": "multi_step_end2end_transformer_rc",
+                            "predictor_args": "{\"predict_answerability\":false,\"skip_distractor_paragraphs\":false,\"use_predicted_decomposition\":true}",
+                            "gdrive_id": "1irFbZoyzaOsatCVtsqgzC91c286tR2xg"
+                        }
+                    ],
+                    "gdrive_id": "1Kg3Ocy6P6E_NoXeQSJYuLa1DYHRqX53c"
+                }
+            ]
+        },
+        {
+            "system_title": "Execution by Select+Answer Model [EX(SA)]",
+            "preamble": "The system has 3 parts given below: (i) Decomposer Model (ii) Selector of Executor Model (iii) Answerer of Executor Model.",
+            "experiments": [
+                {
+                    "experiment_title": "Decomposer Model",
+                    "experiment_name": "execution_model_decomposer_for_2wikimultihopqa",
+                    "predictions": [
+                        {
+                            "path": "raw_data/2wikimultihopqa_dev_20k.jsonl",
+                            "predictor": "question_translator",
+                            "gdrive_id": "1L5rZm5HAX6OP8zya_EdfU2lkxANkINJ6"
+                        }
+                    ],
+                    "gdrive_id": "19fsUCFwJxcz5F2t_wTyTUOMvoxRxRTsf"
+                },
+                {
+                    "experiment_title": "Selector of Executor Model",
+                    "experiment_name": "execution_by_select_and_answer_model_selector_for_2wikimultihopqa",
+                    "predictions": [
+                        {
+                            "path": "raw_data/2wikimultihopqa_single_hop_version_train_20k.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "1iJ3saZLDmpgMyPpb-trHz59PnkSBlB0u"
+                        },
+                        {
+                            "path": "raw_data/2wikimultihopqa_single_hop_version_dev.jsonl",
+                            "predictor": "inplace_text_ranker",
+                            "gdrive_id": "19Ff-UHemBQw_JnbzT3nOidlupMK9u0rw"
+                        }
+                    ],
+                    "gdrive_id": "1K2KBtDm3PHY3DOCiuhg5qphR2qJ1F09l"
+                },
+                {
+                    "experiment_title": "Answerer of Executor Model",
+                    "experiment_name": "execution_by_select_and_answer_model_answerer_for_2wikimultihopqa",
+                    "predictions": [
+                        {
+                            "path": "serialization_dir/execution_model_decomposer_for_2wikimultihopqa/predictions/2wikimultihopqa_dev_20k.jsonl",
+                            "predictor": "multi_step_select_and_answer_transformer_rc",
+                            "predictor_args": "{\"predict_answerability\":false,\"skip_distractor_paragraphs\":false,\"use_predicted_decomposition\":true,\"selector_model_path\":\"serialization_dir/execution_by_select_and_answer_model_selector_for_2wikimultihopqa/model.tar.gz\",\"num_select\":3}",
+                            "gdrive_id": "1Mttc5gHU9zAirTc2heHRP1adeqBK-ZAN"
+                        }
+                    ],
+                    "gdrive_id": "1F71vuoSBt4qqRMVWlqv7GW-mHLd69ri3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "raw_data/hotpotqa_train_20k.jsonl": "1FHclA4W2ZlaZLdZD06BGkq9Yn5E1f5vH",
+    "raw_data/hotpotqa_dev_20k.jsonl": "19Fb6l6CkQPUkIaiOWp86i1EkeNhoIale",
+    "raw_data/2wikimultihopqa_train_20k.jsonl": "1mxADwzAw5-3aHmd44tbKUijVPCVCSexN",
+    "raw_data/2wikimultihopqa_dev_20k.jsonl": "1XtMGLeBC52PvR2VbQ1u3gkFpfLic1mwq",
+    "raw_data/2wikimultihopqa_single_hop_version_train_20k.jsonl": "1C8WfZcYCCOO64BX69c9vPjVtmKrbqm-6",
+    "raw_data/2wikimultihopqa_single_hop_version_dev.jsonl": "1TxAZyRfkwI-rqHdN_qSJwmvL0ESq5b4E",
+    "raw_data/musique_ans_train.jsonl": "1X3rJEAofrJ_tI55U2bquCZ-StVeaWnWu",
+    "raw_data/musique_ans_dev.jsonl": "1TRXU68wveSehVbQrRRtWsUsFkKUF43QS",
+    "raw_data/musique_ans_single_hop_version_train.jsonl": "1n1hsbuJjxZWEcaoJbvtJIelwxMA82zPB",
+    "raw_data/musique_ans_single_hop_version_dev.jsonl": "1vPvvhPnLCL-bYj9K0219JLQFL4_vq9ku",
+    "raw_data/musique_ans_gold_context_version_train.jsonl": "1kX9YFK8V3qCjcRnnwc7RxN3WjWwTyu2r",
+    "raw_data/musique_ans_gold_context_version_dev.jsonl": "1KhIu4QcOZIL8Bu-DPo35uitXesGuZVOX",
+    "raw_data/musique_full_train.jsonl": "1qRgF7UXv1iNQ8NU3k5rau1lPFEu6ip1Y",
+    "raw_data/musique_full_dev.jsonl": "15GtqhsI29UGr-mmE4dvu5Z1RgA2FBFE6",
+    "raw_data/musique_full_single_hop_version_train.jsonl": "1XPn2V_oZkdDsWQJRIeVgifr7lL16i3oF",
+    "raw_data/musique_full_single_hop_version_dev.jsonl": "1WMvkiu_PEuM6XipDAkuBCxqbYvJgApF9"
+}
