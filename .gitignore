@@ -6,7 +6,7 @@ predictions/
 data/
 outputs/
 instantiated_configs/
-# official_evaluation/
+official_evaluation/
 case_study/
 cache/
 .history
