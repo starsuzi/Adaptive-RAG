@@ -1,7 +1,0 @@
-from allennlp_lib.training.metrics.squad_em_and_f1 import SquadEmAndF1
-from allennlp_lib.training.metrics.list_compare_em_and_f1 import ListCompareEmAndF1
-from allennlp_lib.training.metrics.full_recall_rank import FullRecallRank
-
-from allennlp_lib.training.metrics.group import Group
-from allennlp_lib.training.metrics.answer_with_sufficiency import AnswerWithSufficiency
-from allennlp_lib.training.metrics.support_with_sufficiency import SupportWithSufficiency
