@@ -105,6 +105,7 @@ You can ensure that dev and test sets do not overlap, with the code below.
 ```bash
 $ python processing_scripts/check_duplicate.py {dataset_name} # nq, trivia, squad hotpotqa, 2wikimultihopqa, musique
 ```
+We provide the preprocessed datasets in [`processed_data.tar.gz`](./processed_data.tar.gz).
 
 ## Prepare LLM Server
 After indexing for retrieval is done, you can verify the number of indexed documents in each of the four indices by executing the following command in your terminal: `curl localhost:9200/_cat/indices`. You should have 4 indices and expect to see the following sizes: HotpotQA (5,233,329), 2WikiMultihopQA (430,225), MuSiQue (139,416), and Wiki (21,015,324).
