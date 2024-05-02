@@ -1,0 +1,58 @@
+diff --git a/allennlp/modules/text_field_embedders/basic_text_field_embedder.py b/allennlp/modules/text_field_embedders/basic_text_field_embedder.py
+index 477dd8f1..7d2a28ac 100644
+--- a/allennlp/modules/text_field_embedders/basic_text_field_embedder.py
++++ b/allennlp/modules/text_field_embedders/basic_text_field_embedder.py
+@@ -85,7 +85,7 @@ class BasicTextFieldEmbedder(TextFieldEmbedder):
+             missing_tensor_args = set()
+             for param in forward_params.keys():
+                 if param in kwargs:
+-                    forward_params_values[param] = kwargs[param]
++                    forward_params_values[param] = kwargs.pop(param)
+                 else:
+                     missing_tensor_args.add(param)
+ 
+@@ -96,11 +96,11 @@ class BasicTextFieldEmbedder(TextFieldEmbedder):
+             if len(tensors) == 1 and len(missing_tensor_args) == 1:
+                 # If there's only one tensor argument to the embedder, and we just have one tensor to
+                 # embed, we can just pass in that tensor, without requiring a name match.
+-                token_vectors = embedder(list(tensors.values())[0], **forward_params_values)
++                token_vectors = embedder(list(tensors.values())[0], **forward_params_values, **kwargs)
+             else:
+                 # If there are multiple tensor arguments, we have to require matching names from the
+                 # TokenIndexer.  I don't think there's an easy way around that.
+-                token_vectors = embedder(**tensors, **forward_params_values)
++                token_vectors = embedder(**tensors, **forward_params_values, **kwargs)
+             if token_vectors is not None:
+                 # To handle some very rare use cases, we allow the return value of the embedder to
+                 # be None; we just skip it in that case.
+diff --git a/allennlp/modules/token_embedders/pretrained_transformer_embedder.py b/allennlp/modules/token_embedders/pretrained_transformer_embedder.py
+index 9903c310..1b22ba76 100644
+--- a/allennlp/modules/token_embedders/pretrained_transformer_embedder.py
++++ b/allennlp/modules/token_embedders/pretrained_transformer_embedder.py
+@@ -1,5 +1,6 @@
+ import logging
+ import math
++import inspect
+ from typing import Optional, Tuple, Dict, Any
+ 
+ from overrides import overrides
+@@ -144,6 +145,7 @@ class PretrainedTransformerEmbedder(TokenEmbedder):
+         mask: torch.BoolTensor,
+         type_ids: Optional[torch.LongTensor] = None,
+         segment_concat_mask: Optional[torch.BoolTensor] = None,
++        **kwargs
+     ) -> torch.Tensor:  # type: ignore
+         """
+         # Parameters
+@@ -198,6 +200,11 @@ class PretrainedTransformerEmbedder(TokenEmbedder):
+         if type_ids is not None:
+             parameters["token_type_ids"] = type_ids
+ 
++        forward_params = inspect.signature(self.transformer_model.forward).parameters
++        for param in list(kwargs.keys()):
++            if param in forward_params:
++                parameters[param] = kwargs.pop(param)
++
+         transformer_output = self.transformer_model(**parameters)
+         if self._scalar_mix is not None:
+             # As far as I can tell, the hidden states will always be the last element
